@@ -1,5 +1,6 @@
 # Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24423801.svg)](https://doi.org/10.5281/zenodo.24423801)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Verified Universities](https://img.shields.io/badge/Verified_Universities-159-0f766e.svg)](https://eduexpressint.com/universities)
 [![Programs](https://img.shields.io/badge/Verified_Programs-898-1d4ed8.svg)](https://eduexpressint.com/china-study-report-bangladesh)

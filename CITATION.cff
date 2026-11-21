@@ -11,6 +11,7 @@ authors:
     country: "BD"
     website: "https://eduexpressint.com"
 version: "2026.11.21"
+doi: "10.5281/zenodo.24423801"
 date-released: "2026-11-21"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/rakibnuist/bangladesh-study-abroad-dataset"
