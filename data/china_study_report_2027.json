@@ -1,0 +1,277 @@
+{
+  "title": "Bangladesh to China Study Data & Cost Benchmark Report",
+  "url": "https://eduexpressint.com/china-study-report-bangladesh",
+  "datasetUrl": "https://eduexpressint.com/china-study-report.json",
+  "publisher": {
+    "name": "EduExpress International",
+    "url": "https://eduexpressint.com",
+    "officeName": "EduExpress International Dhanmondi Office",
+    "address": "Evergreen Latif, House: 12/1, Road: 4/A, Ground Floor, Dhanmondi, Dhaka 1209",
+    "hours": "Saturday to Thursday, 11:00 AM to 6:00 PM",
+    "phonePrimary": "+8801983333566",
+    "email": "info@eduexpressint.com"
+  },
+  "generatedAt": "2026-11-21T16:37:46.511Z",
+  "intakeVerifiedOn": "15 November 2026",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "methodology": {
+    "tuitionCurrency": "CNY",
+    "servicePackageCurrency": "BDT",
+    "explicitSingleYearCnyOnly": true,
+    "noSyntheticFxConversion": true,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "chinaVisaFirstPolicy": "No file opening charge. No EduExpress service fee before China visa approval. Earlier third-party fees must be itemized in writing."
+  },
+  "report": {
+    "universityCount": 150,
+    "cityCount": 61,
+    "topCities": [
+      {
+        "city": "Nanjing",
+        "slug": "nanjing",
+        "count": 13,
+        "hasCityPage": true
+      },
+      {
+        "city": "Shanghai",
+        "slug": "shanghai",
+        "count": 10,
+        "hasCityPage": true
+      },
+      {
+        "city": "Guangzhou",
+        "slug": "guangzhou",
+        "count": 9,
+        "hasCityPage": true
+      },
+      {
+        "city": "Wuhan",
+        "slug": "wuhan",
+        "count": 9,
+        "hasCityPage": true
+      },
+      {
+        "city": "Beijing",
+        "slug": "beijing",
+        "count": 8,
+        "hasCityPage": true
+      },
+      {
+        "city": "Kunming",
+        "slug": "kunming",
+        "count": 6,
+        "hasCityPage": true
+      },
+      {
+        "city": "Tianjin",
+        "slug": "tianjin",
+        "count": 6,
+        "hasCityPage": true
+      },
+      {
+        "city": "Chengdu",
+        "slug": "chengdu",
+        "count": 5,
+        "hasCityPage": true
+      },
+      {
+        "city": "Hangzhou",
+        "slug": "hangzhou",
+        "count": 5,
+        "hasCityPage": true
+      },
+      {
+        "city": "Changchun",
+        "slug": "changchun",
+        "count": 4,
+        "hasCityPage": true
+      }
+    ],
+    "verification": {
+      "verified": 150,
+      "underVerification": 0,
+      "expired": 0,
+      "withOfficialSource": 150
+    },
+    "englishMediumUniversityCount": 143,
+    "mbbsListedUniversityCount": 47,
+    "programCounts": {
+      "total": 853,
+      "bachelorEnglish": 521,
+      "bachelorChinese": 96,
+      "master": 118,
+      "phd": 66,
+      "mbbs": 2,
+      "languageAndFoundation": 44
+    },
+    "tuitionDistributions": {
+      "allExplicit": {
+        "count": 645,
+        "min": 4900,
+        "q1": 15000,
+        "median": 20000,
+        "q3": 25000,
+        "max": 75000
+      },
+      "bachelorEnglish": {
+        "count": 377,
+        "min": 4900,
+        "q1": 16000,
+        "median": 18000,
+        "q3": 24000,
+        "max": 75000
+      },
+      "bachelorChinese": {
+        "count": 96,
+        "min": 15000,
+        "q1": 15000,
+        "median": 15000,
+        "q3": 16500,
+        "max": 48000
+      },
+      "master": {
+        "count": 95,
+        "min": 18000,
+        "q1": 20000,
+        "median": 20000,
+        "q3": 24000,
+        "max": 42000
+      },
+      "phd": {
+        "count": 53,
+        "min": 12000,
+        "q1": 25000,
+        "median": 25000,
+        "q3": 30000,
+        "max": 48000
+      }
+    },
+    "feeBenchmarks": [
+      {
+        "category": "application",
+        "label": "University application fee (one-off / recorded CNY)",
+        "sampleCount": 31,
+        "min": 0,
+        "median": 500,
+        "max": 1000
+      },
+      {
+        "category": "accommodation",
+        "label": "On-campus dormitory (annual CNY)",
+        "sampleCount": 77,
+        "min": 1000,
+        "median": 5000,
+        "max": 19200
+      },
+      {
+        "category": "insurance",
+        "label": "Comprehensive medical insurance (annual CNY)",
+        "sampleCount": 132,
+        "min": 200,
+        "median": 800,
+        "max": 1000
+      },
+      {
+        "category": "medical",
+        "label": "Health check / verification (recorded CNY)",
+        "sampleCount": 24,
+        "min": 340,
+        "median": 400,
+        "max": 550
+      },
+      {
+        "category": "residence",
+        "label": "Residence permit issuance (recorded CNY)",
+        "sampleCount": 130,
+        "min": 400,
+        "median": 400,
+        "max": 800
+      }
+    ],
+    "scholarshipTotal": 267,
+    "scholarshipCategories": [
+      {
+        "category": "Chinese Government (CSC)",
+        "count": 37
+      },
+      {
+        "category": "Provincial or city government",
+        "count": 58
+      },
+      {
+        "category": "Belt and Road / ministry",
+        "count": 5
+      },
+      {
+        "category": "Chinese language (CLEC)",
+        "count": 3
+      },
+      {
+        "category": "University scholarship",
+        "count": 164
+      }
+    ],
+    "intakes": [
+      {
+        "name": "September 2027 Intake (Autumn) — Main Intake",
+        "applicationsOpen": "October / November (Previous Year)",
+        "cscDeadline": "December – March",
+        "universityDeadline": "April – June",
+        "classesStart": "September",
+        "programs": "All Bachelor’s, Master’s, PhD, and MBBS degree programs.",
+        "badge": "Largest Selection & Full CSC Allocation",
+        "opensLabel": "31 October 2026",
+        "deadlineLabel": "30 June 2027",
+        "activeCampaignHref": null,
+        "status": "Open"
+      },
+      {
+        "name": "March 2027 Intake (Spring) — Secondary Intake",
+        "applicationsOpen": "July / August (Previous Year)",
+        "cscDeadline": "Limited CSC Quotas",
+        "universityDeadline": "December – January",
+        "classesStart": "March",
+        "programs": "Select Bachelor’s, Master’s, and Chinese Language preparatory courses.",
+        "badge": "Faster Entry (No 1-Year Gap)",
+        "opensLabel": "August 2026",
+        "deadlineLabel": "31 January 2027",
+        "activeCampaignHref": "/china-march-2027-intake",
+        "status": "Open"
+      }
+    ],
+    "storyCount": 7,
+    "latestVerifiedIso": "2026-11-21"
+  },
+  "officialSources": [
+    {
+      "label": "Chinese Government Scholarship Portal (CSC / CampusChina)",
+      "href": "https://www.campuschina.org/",
+      "note": "Official CSC Type A & Type B scholarship categories and stipend rules"
+    },
+    {
+      "label": "Ministry of Education of the People’s Republic of China (MoE)",
+      "href": "https://en.moe.gov.cn/documents/laws_policies/201506/t20150626_191405.html",
+      "note": "Regulations governing English-taught international undergraduate medical programmes"
+    },
+    {
+      "label": "Chinese Visa Application Service Center in Dhaka (CVASC)",
+      "href": "https://www.visaforchina.cn/DAC4_EN/",
+      "note": "Official Dhaka visa submission desk for X1 and X2 student visas"
+    },
+    {
+      "label": "Chinese Embassy Bangladesh Visa Agency Notice",
+      "href": "https://bd.china-embassy.gov.cn/eng/lsyw/lsxx/202605/t20260520_11914015.htm",
+      "note": "Confirmation that China does not appoint exclusive commercial visa agencies"
+    },
+    {
+      "label": "China Scholastic Competency Assessment (CSCA)",
+      "href": "https://csca.cn/",
+      "note": "Undergraduate entrance assessment subjects required by participating Chinese universities"
+    },
+    {
+      "label": "Bangladesh Medical & Dental Council (BMDC)",
+      "href": "https://www.bmdc.org.bd/",
+      "note": "Foreign medical graduate eligibility and Registration Qualifying Examination governance"
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "title": "Bangladesh Study Abroad Market Benchmark & Destination Matrix 2027",
+  "url": "https://eduexpressint.com/bangladesh-study-abroad-market",
+  "bengaliUrl": "https://eduexpressint.com/bn/bangladesh-study-abroad-market",
+  "datasetUrl": "https://eduexpressint.com/bangladesh-study-abroad-market.json",
+  "publisher": {
+    "name": "EduExpress International",
+    "url": "https://eduexpressint.com",
+    "officeName": "EduExpress International Dhanmondi Office",
+    "address": "Evergreen Latif, House: 12/1, Road: 4/A, Ground Floor, Dhanmondi, Dhaka 1209",
+    "hours": "Saturday to Thursday, 11:00 AM to 6:00 PM",
+    "phonePrimary": "+8801983333566",
+    "phoneSecondary": "+8801329663505",
+    "email": "info@eduexpressint.com"
+  },
+  "generatedAt": "2026-11-21T16:37:44.410Z",
+  "lastVerified": "2026-11-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "methodology": {
+    "tuitionAndLivingSeparated": true,
+    "chinaVisaFirstPolicy": "No file opening charge. No EduExpress service fee before China visa approval. Earlier third-party fees must be itemized in writing.",
+    "malaysiaServiceFee": "BDT 0 EduExpress service fee; EMGS, tuition, and travel are paid directly by the student.",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "snapshot": {
+    "generatedAtIso": "2026-11-21T16:37:44.410Z",
+    "activeDestinationCount": 12,
+    "liveCatalog": {
+      "activeUniversities": 159,
+      "byCountry": [
+        {
+          "country": "China",
+          "count": 150
+        },
+        {
+          "country": "Malaysia",
+          "count": 9
+        }
+      ],
+      "programsCount": 898,
+      "itemizedFeeRowsCount": 888,
+      "scholarshipsCount": 276,
+      "verifiedUniversitiesCount": 159,
+      "consentedStoriesCount": 7
+    },
+    "chinaIntakes": [
+      {
+        "name": "September 2027 Intake (Autumn) — Main Intake",
+        "applicationsOpen": "October / November (Previous Year)",
+        "cscDeadline": "December – March",
+        "universityDeadline": "April – June",
+        "classesStart": "September",
+        "programs": "All Bachelor’s, Master’s, PhD, and MBBS degree programs.",
+        "badge": "Largest Selection & Full CSC Allocation",
+        "opensLabel": "31 October 2026",
+        "deadlineLabel": "30 June 2027",
+        "activeCampaignHref": null,
+        "status": "Open"
+      },
+      {
+        "name": "March 2027 Intake (Spring) — Secondary Intake",
+        "applicationsOpen": "July / August (Previous Year)",
+        "cscDeadline": "Limited CSC Quotas",
+        "universityDeadline": "December – January",
+        "classesStart": "March",
+        "programs": "Select Bachelor’s, Master’s, and Chinese Language preparatory courses.",
+        "badge": "Faster Entry (No 1-Year Gap)",
+        "opensLabel": "August 2026",
+        "deadlineLabel": "31 January 2027",
+        "activeCampaignHref": "/china-march-2027-intake",
+        "status": "Open"
+      }
+    ],
+    "destinations": [
+      {
+        "slug": "china",
+        "name": "China",
+        "href": "/study-in-china-from-bangladesh",
+        "tier": "Flagship",
+        "intakes": "March & September",
+        "indicativeTuition": "$2,500 - $6,000 / year (CSC scholarship may cover full tuition, subject to eligibility)",
+        "indicativeLiving": "$200 - $400 / month",
+        "studentFileRule": "Usually Not Needed (On-campus / CSC stipend)",
+        "eduExpressFeeModel": "BDT 0 before China visa approval (BDT 200,000 post-visa package)",
+        "keyGuardrail": "Third-party app/medical/notary fees itemized separately; MoE/BMDC checks for MBBS.",
+        "officialSources": [
+          {
+            "label": "Chinese Government Scholarship Portal (CSC / CampusChina)",
+            "href": "https://www.campuschina.org/"
+          },
+          {
+            "label": "Ministry of Education of the People’s Republic of China (MoE)",
+            "href": "https://en.moe.gov.cn/documents/laws_policies/201506/t20150626_191405.html"
+          },
+          {
+            "label": "Chinese Visa Application Service Center in Dhaka (CVASC)",
+            "href": "https://www.visaforchina.cn/DAC4_EN/"
+          }
+        ]
+      },
+      {
+        "slug": "south-korea",
+        "name": "South Korea",
+        "href": "/study-in-south-korea-from-bangladesh",
+        "tier": "Wave 1 Active",
+        "intakes": "March & September",
+        "indicativeTuition": "$3,000 - $6,000 / semester (scholarships may offset part or all, subject to eligibility)",
+        "indicativeLiving": "$500 - $800 / month",
+        "studentFileRule": "AD Bank Student File for self-funded tuition",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Check NIIED GKS deadlines & Korean TOPIK vs English-track readiness.",
+        "officialSources": [
+          {
+            "label": "NIIED — Study in Korea & Global Korea Scholarship (GKS) Portal",
+            "href": "https://www.studyinkorea.go.kr/"
+          },
+          {
+            "label": "Embassy of the Republic of Korea in Bangladesh",
+            "href": "https://overseas.mofa.go.kr/bd-en/index.do"
+          }
+        ]
+      },
+      {
+        "slug": "uk",
+        "name": "United Kingdom",
+        "href": "/study-in-uk-from-bangladesh",
+        "tier": "Wave 1 Active",
+        "intakes": "January & September",
+        "indicativeTuition": "£12,000 - £18,000 / year (Partially offset by scholarships)",
+        "indicativeLiving": "£1,000 - £1,300 / month",
+        "studentFileRule": "AD Bank Student File + 28-day bank solvency",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Graduate Route moves to 18 mos (from Jan 2027); verify licensed sponsor status.",
+        "officialSources": [
+          {
+            "label": "UK Visas and Immigration (UKVI) — Student Visa Official Guidance",
+            "href": "https://www.gov.uk/student-visa"
+          },
+          {
+            "label": "GOV.UK — Register of Licensed Student Sponsors",
+            "href": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students"
+          },
+          {
+            "label": "British Council — Study UK Official Portal",
+            "href": "https://study-uk.britishcouncil.org/"
+          }
+        ]
+      },
+      {
+        "slug": "hungary",
+        "name": "Hungary",
+        "href": "/study-in-hungary-from-bangladesh",
+        "tier": "Wave 1 Active",
+        "intakes": "September (Main Intake)",
+        "indicativeTuition": "€3,000 - €6,000 / year (Fully Funded by Stipendium)",
+        "indicativeLiving": "€400 - €600 / month",
+        "studentFileRule": "Not needed for Stipendium Hungaricum; AD file for self-funded",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Follow Tempus Public Foundation deadlines (Jan 15); never promise nomination.",
+        "officialSources": [
+          {
+            "label": "Tempus Public Foundation — Stipendium Hungaricum Official Portal",
+            "href": "https://stipendiumhungaricum.hu/"
+          },
+          {
+            "label": "Study in Hungary — Official Higher Education Portal",
+            "href": "https://studyinhungary.hu/"
+          }
+        ]
+      },
+      {
+        "slug": "finland",
+        "name": "Finland",
+        "href": "/study-in-finland-from-bangladesh",
+        "tier": "Wave 1 Active",
+        "intakes": "September (Joint Application)",
+        "indicativeTuition": "€6,000 - €12,000 / year (Institutional scholarships reduce tuition by 20-100% depending on university rules)",
+        "indicativeLiving": "€800 / month (€9,600/year official Migri living-funds benchmark)",
+        "studentFileRule": "AD Bank Student File + EUR 9,600/yr liquid proof",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Migri EUR 800/month (€9,600/yr) living proof required separately from tuition.",
+        "officialSources": [
+          {
+            "label": "Studyinfo.fi — Official Finnish National Application Portal",
+            "href": "https://opintopolku.fi/konfo/en/"
+          },
+          {
+            "label": "Finnish Immigration Service (Migri) — Student Residence Permit & Means of Support",
+            "href": "https://migri.fi/en/studying-in-finland"
+          }
+        ]
+      },
+      {
+        "slug": "cyprus",
+        "name": "Cyprus",
+        "href": "/study-in-cyprus-from-bangladesh",
+        "tier": "Wave 2 Active",
+        "intakes": "February & October",
+        "indicativeTuition": "€2,500 - €4,500 / year (partial waivers available for eligible students)",
+        "indicativeLiving": "€300 - €400 / month",
+        "studentFileRule": "AD Bank Student File / verified bank proof",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Strictly distinguish Republic of Cyprus (EU) vs Northern Cyprus jurisdiction.",
+        "officialSources": [
+          {
+            "label": "Cyprus Agency of Quality Assurance and Accreditation in Higher Education (CYQAA)",
+            "href": "https://www.dipae.ac.cy/index.php/en/"
+          },
+          {
+            "label": "Ministry of Education, Sport and Youth — Republic of Cyprus",
+            "href": "https://www.moec.gov.cy/en/"
+          }
+        ]
+      },
+      {
+        "slug": "croatia",
+        "name": "Croatia",
+        "href": "/study-in-croatia-from-bangladesh",
+        "tier": "Wave 3 Active",
+        "intakes": "October (Winter Intake)",
+        "indicativeTuition": "€3,000 - €5,500 / year (varies by university and degree program)",
+        "indicativeLiving": "€500 - €700 / month",
+        "studentFileRule": "AD Bank Student File for tuition wire",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Lead with accredited degree recognition; never market Schengen mobility.",
+        "officialSources": [
+          {
+            "label": "Agency for Science and Higher Education (ASHE / AZVO) — Croatia",
+            "href": "https://www.azvo.hr/en/"
+          },
+          {
+            "label": "Study in Croatia — Official Higher Education Portal",
+            "href": "https://www.studyincroatia.hr/"
+          }
+        ]
+      },
+      {
+        "slug": "georgia",
+        "name": "Georgia",
+        "href": "/study-in-georgia-from-bangladesh",
+        "tier": "Wave 2 Active",
+        "intakes": "March & September",
+        "indicativeTuition": "$4,500 - $6,500 / year (MBBS)",
+        "indicativeLiving": "$300 - $500 / month",
+        "studentFileRule": "AD Bank Student File / verified wire",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Lead medical (MD/MBBS) checks with WDOMS & BMDC RQE licensing rules.",
+        "officialSources": [
+          {
+            "label": "National Center for Educational Quality Enhancement (NCEQE) — Georgia",
+            "href": "https://eqe.ge/en"
+          },
+          {
+            "label": "Bangladesh Medical & Dental Council (BMDC)",
+            "href": "https://www.bmdc.org.bd/"
+          }
+        ]
+      },
+      {
+        "slug": "malaysia",
+        "name": "Malaysia",
+        "href": "/study-in-malaysia-from-bangladesh",
+        "tier": "Wave 1 Active",
+        "intakes": "February & September (Multiple intakes year-round)",
+        "indicativeTuition": "RM 12,000 - RM 45,000 / year (approx. BDT 3.2L - 12.0L; UK/AU branch campuses RM 42,000 - 58,000)",
+        "indicativeLiving": "RM 1,200 - RM 2,000 / month (approx. BDT 32,000 - 54,000/month with hostel & food)",
+        "studentFileRule": "AD Bank Student File for tuition wire",
+        "eduExpressFeeModel": "BDT 0 EduExpress service fee",
+        "keyGuardrail": "EMGS, VAL, medical & MQA verification required; no guaranteed part-time funding.",
+        "officialSources": [
+          {
+            "label": "Education Malaysia Global Services (EMGS)",
+            "href": "https://educationmalaysia.gov.my/"
+          },
+          {
+            "label": "Malaysian Qualifications Register (MQR / MQA)",
+            "href": "https://www2.mqa.gov.my/mqr/"
+          }
+        ]
+      },
+      {
+        "slug": "malta",
+        "name": "Malta",
+        "href": "/study-in-malta-from-bangladesh",
+        "tier": "Wave 2 Active",
+        "intakes": "Confirmed for the selected institution",
+        "indicativeTuition": "Confirmed for the selected institution and intake",
+        "indicativeLiving": "Prepared in a written fee schedule",
+        "studentFileRule": "AD Bank Student File for direct tuition",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Verify institution accreditation and language requirements before deposit.",
+        "officialSources": [
+          {
+            "label": "Malta Further & Higher Education Authority (MFHEA)",
+            "href": "https://mfhea.mt/"
+          },
+          {
+            "label": "Identità Malta — Central Visa Unit & Student Residence",
+            "href": "https://identita.gov.mt/"
+          }
+        ]
+      },
+      {
+        "slug": "greece",
+        "name": "Greece",
+        "href": "/study-in-greece-from-bangladesh",
+        "tier": "Wave 3 Active",
+        "intakes": "Confirmed for the selected institution",
+        "indicativeTuition": "Confirmed for the selected institution and intake",
+        "indicativeLiving": "Prepared in a written fee schedule",
+        "studentFileRule": "AD Bank Student File for tuition wire",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Verify English-taught degree availability & national visa steps first.",
+        "officialSources": [
+          {
+            "label": "Study in Greece — Official Higher Education Portal",
+            "href": "https://studyingreece.edu.gr/"
+          },
+          {
+            "label": "Hellenic Authority for Higher Education (HAHE / ETHAAE)",
+            "href": "https://www.ethaae.gr/en/"
+          }
+        ]
+      },
+      {
+        "slug": "thailand",
+        "name": "Thailand",
+        "href": "/study-in-thailand-from-bangladesh",
+        "tier": "Wave 3 Active",
+        "intakes": "Confirmed for the selected institution",
+        "indicativeTuition": "Confirmed for the selected institution and intake",
+        "indicativeLiving": "Prepared in a written fee schedule",
+        "studentFileRule": "AD Bank Student File / verified tuition transfer",
+        "eduExpressFeeModel": "Written service schedule before onboarding",
+        "keyGuardrail": "Separate accredited university degrees from short language courses; verify ED visa.",
+        "officialSources": [
+          {
+            "label": "Ministry of Higher Education, Science, Research and Innovation (MHESI) — Thailand",
+            "href": "https://www.mhesi.go.th/"
+          },
+          {
+            "label": "Royal Thai Embassy, Dhaka — Consular & Non-Immigrant ED Visa",
+            "href": "https://dhaka.thaiembassy.org/"
+          }
+        ]
+      }
+    ]
+  },
+  "macroMarketFundamentals": [
+    {
+      "indicator": "Outbound Bangladeshi Student Pool",
+      "figure": "50,000+ tertiary (OECD) · 100,000+ broader outbound estimates",
+      "implication": "Bangladesh outbound demand is rising steadily across undergraduate, MBBS, and postgraduate tiers, led by families comparing long-term degree ROI against local private fees.",
+      "sourceNote": "OECD Education at a Glance baseline & 2025–2026 ICEF / industry outbound estimates"
+    },
+    {
+      "indicator": "UK Bangladesh Cohort & Policy Shift",
+      "figure": "12,700 students in UK (HESA 2024–25) · Graduate Route 18 mos from Jan 2027",
+      "implication": "Shorter 18-month post-study Graduate visas (applied on or after 1 Jan 2027) and stricter sponsor compliance require realistic upfront UK ROI checks.",
+      "sourceNote": "HESA via UUK & GOV.UK Immigration Rules"
+    },
+    {
+      "indicator": "Macro Currency & Family Co-Decision",
+      "figure": "BDT ~30% depreciation over <3 yrs · 49% population under age 24",
+      "implication": "Because parents/guardians co-fund education in BDT, separating institutional tuition from living costs and checking official bank exchange rates prevents mid-degree funding shocks.",
+      "sourceNote": "IMF / Bangladesh macro context; EduExpress parent consultation records"
+    },
+    {
+      "indicator": "AI Search Discovery in Admissions",
+      "figure": "46% student AI tool usage in 2026 college search (up from 26% in 2025)",
+      "implication": "Students and counselors increasingly cross-check fees and visas via AI assistants — making dated, open-license, source-cited datasets essential.",
+      "sourceNote": "EAB College Search AI Survey 2026"
+    },
+    {
+      "indicator": "Bangladesh Consultancy Structure",
+      "figure": "~429 agencies nationally (61% based in Dhaka; median 11–50 staff)",
+      "implication": "Heavy Dhaka agency density without mandatory fee standardization makes written ClearCost schedules and B2B non-poaching MOUs critical differentiators.",
+      "sourceNote": "RevenueBase Bangladesh Agency Census (Sep 2026)"
+    }
+  ],
+  "studentFileVsChinaPayment": [
+    {
+      "dimension": "Regulatory Requirement",
+      "studentFileCountries": "Required for countries needing advance tuition or blocked-account remittance (Malaysia, UK, Finland, Hungary self-funded, Germany, Australia, USA). Governed by Bangladesh Bank GFET via an Authorized Dealer (AD) bank branch.",
+      "chinaAdvantage": "Not required for full CSC / Type A scholarships (zero tuition remittance) and most self-funded/provincial-waiver Chinese tracks where fees are settled on campus upon arrival during registration week."
+    },
+    {
+      "dimension": "Required Documents & Compliance",
+      "studentFileCountries": "Official Offer Letter, itemized institutional fee estimate, attested academic transcripts, IELTS/test score, valid passport/visa, TM form, and sponsor financial/TIN files locked to one AD bank branch (1 academic year limit per release).",
+      "chinaAdvantage": "Standard passport foreign-currency endorsement (USD/CNY) + dual-currency bank card for personal transition funds, transitioning to Alipay/WeChat Pay on campus."
+    },
+    {
+      "dimension": "Bank Fees & Timeline Friction",
+      "studentFileCountries": "Typical bank Student File opening fee of BDT 5,000–6,000 + VAT, annual renewal fee, SWIFT transfer fees, and multi-day bank branch compliance review before visa deadlines.",
+      "chinaAdvantage": "Zero AD Student File opening fee and zero cross-border wire delay before departure on eligible routes — a major relief for Bangladeshi guardians."
+    }
+  ],
+  "academicPathways": [
+    {
+      "stage": "After O-Level / SSC / Dakhil",
+      "routes": [
+        "Malaysia 1-Year Foundation + 3-Year Bachelor (4 years total)",
+        "China 3-Year Higher Vocational Diploma + 2-Year Top-Up Bachelor (5 years total)"
+      ],
+      "englishGuide": "https://eduexpressint.com/study-in-malaysia-after-o-level",
+      "chinaGuide": "https://eduexpressint.com/study-in-china-after-o-level-ssc",
+      "bengaliGuide": "https://eduexpressint.com/bn/study-in-china-after-ssc-dakhil"
+    },
+    {
+      "stage": "After A-Level / HSC / Alim",
+      "routes": [
+        "China Ranked Bachelor (University/Provincial scholarships + CSCA prep)",
+        "Malaysia UK/Australian Branch Campuses & Dual Degrees",
+        "United Kingdom 3-Year Honours (Jan 2027 18-month Graduate Route rule)",
+        "Hungary (Stipendium Hungaricum), South Korea (GKS), Finland (UAS/Research), Georgia (MBBS)"
+      ],
+      "comparisonGuide": "https://eduexpressint.com/bangladesh-vs-study-abroad-countries"
+    },
+    {
+      "stage": "B2B Agency & Sub-Agent Desk",
+      "routes": [
+        "China, Malaysia, and 10 active destinations under custom bilateral MOU",
+        "24-48h file audits, non-poaching attribution protection, and 5-stage SOP"
+      ],
+      "b2bDeskUrl": "https://eduexpressint.com/b2b",
+      "globalPartnerUrl": "https://eduexpressint.com/partnership"
+    }
+  ],
+  "officialSources": [
+    {
+      "label": "Bangladesh Bank — Foreign Exchange Policy Department (GFET & Student File)",
+      "href": "https://www.bb.org.bd/en/index.php/fepd/fepdguideline",
+      "note": "Official central bank foreign exchange regulations for overseas education remittances and AD bank Student Files"
+    },
+    {
+      "label": "Bangladesh Medical & Dental Council (BMDC)",
+      "href": "https://www.bmdc.org.bd/",
+      "note": "Foreign medical graduate eligibility and Registration Qualifying Examination (RQE) governance"
+    },
+    {
+      "label": "Campus China — Official Ministry of Education & CSC Portal",
+      "href": "https://www.campuschina.org/",
+      "note": "Official Chinese Government Scholarship categories, stipends, and Order No. 42 regulations"
+    },
+    {
+      "label": "Education Malaysia Global Services (EMGS)",
+      "href": "https://educationmalaysia.gov.my/",
+      "note": "Official Malaysian Student Pass, eVAL tracking, and international admission rules"
+    },
+    {
+      "label": "Malaysian Qualifications Register (MQA / MQR)",
+      "href": "https://www2.mqa.gov.my/mqr/",
+      "note": "Statutory accreditation registry for Malaysian public, private, and international branch campuses"
+    },
+    {
+      "label": "UK Visas and Immigration (UKVI) — Student & Graduate Route",
+      "href": "https://www.gov.uk/student-visa",
+      "note": "UK Student Visa financial rules, licensed sponsor register, and Jan 2027 18-month Graduate Route transition"
+    },
+    {
+      "label": "Tempus Public Foundation — Stipendium Hungaricum (Bangladesh)",
+      "href": "https://stipendiumhungaricum.hu/",
+      "note": "Official Hungarian Government scholarship portal and Bangladesh bilateral partner rules"
+    },
+    {
+      "label": "NIIED — Study in Korea & Global Korea Scholarship (GKS)",
+      "href": "https://www.studyinkorea.go.kr/",
+      "note": "Official South Korean government admissions, TOPIK, and GKS guidelines"
+    },
+    {
+      "label": "Finnish Immigration Service (Migri) — Studying in Finland",
+      "href": "https://migri.fi/en/studying-in-finland",
+      "note": "Type A residence permit rules and official EUR 800/month (EUR 9,600/year) means-of-support benchmark"
+    },
+    {
+      "label": "British Council Bangladesh — School & Language Exams",
+      "href": "https://www.britishcouncil.org.bd/en/exam/school",
+      "note": "CAIE / Edexcel O-Level & A-Level exam registration framework and IELTS testing in Bangladesh"
+    }
+  ]
+}

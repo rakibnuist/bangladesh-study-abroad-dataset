@@ -1,0 +1,63 @@
+{
+  "title": "Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "version": "2026.11.21",
+  "publication_date": "2026-11-21",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Al Rakib, Abdullah",
+      "affiliation": "EduExpress International (Dhaka, Bangladesh)"
+    },
+    {
+      "name": "EduExpress International Editorial & Verification Desk",
+      "affiliation": "EduExpress International (Dhaka, Bangladesh)"
+    }
+  ],
+  "description": "<p>An open, evidence-verified higher-education cost and admissions dataset compiled for Bangladeshi students, parents, journalists, and education researchers by <strong>EduExpress International</strong> (<a href=\"https://eduexpressint.com\">https://eduexpressint.com</a>, Dhanmondi, Dhaka).</p><ul><li><strong>159 verified active institutions</strong> (150 Chinese universities across 61 cities + 9 Malaysian universities; 0 under verification).</li><li><strong>898 structured programs</strong> (521 English-taught China Bachelor programs, 118 Master's, 66 PhD).</li><li><strong>888 itemized non-tuition fee records</strong> separating university tuition from dormitory, medical insurance, residence permit, health check, and EMGS processing costs.</li><li><strong>276 scholarship tracks</strong> across CSC, Chinese provincial/city governments, Belt and Road, CLEC, and institutional awards.</li><li><strong>12-destination Bangladesh outbound comparison matrix</strong> documenting Bangladesh Bank AD Student File remittance rules vs. China on-campus/CSC payment pathways.</li></ul><p>Live machine-readable endpoints and press briefs are maintained at <a href=\"https://eduexpressint.com/press\">https://eduexpressint.com/press</a>. EduExpress International (Dhaka, Bangladesh) is an independent entity unaffiliated with UK-registered EduExpress Ltd.</p>",
+  "keywords": [
+    "Bangladesh higher education",
+    "Study in China from Bangladesh",
+    "China university tuition benchmark",
+    "CSC Scholarship",
+    "Study in Malaysia from Bangladesh",
+    "International student costs",
+    "Open education data",
+    "EduExpress International"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://eduexpressint.com/press",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://eduexpressint.com/china-study-report-bangladesh",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://eduexpressint.com/bangladesh-study-abroad-market",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://eduexpressint.com/china-study-report.json",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://eduexpressint.com/bangladesh-study-abroad-market.json",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Tuition quartiles include strictly explicit single-year CNY program rows; non-tuition arrival fees are separated from tuition and never converted using synthetic exchange rates. Licensed under CC BY 4.0."
+}

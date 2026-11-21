@@ -1,0 +1,91 @@
+{
+  "profile": "tabular-data-package",
+  "name": "bangladesh-study-abroad-dataset",
+  "title": "Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)",
+  "version": "2026.11.21",
+  "homepage": "https://eduexpressint.com/press",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "EduExpress China Study Data & Cost Benchmark API",
+      "path": "https://eduexpressint.com/china-study-report.json"
+    },
+    {
+      "title": "EduExpress Bangladesh Study Abroad Market 2027 API",
+      "path": "https://eduexpressint.com/bangladesh-study-abroad-market.json"
+    },
+    {
+      "title": "EduExpress Verification Standard",
+      "path": "https://eduexpressint.com/how-we-verify-universities"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Abdullah Al Rakib",
+      "role": "author",
+      "organization": "EduExpress International"
+    },
+    {
+      "title": "EduExpress International",
+      "role": "publisher",
+      "path": "https://eduexpressint.com"
+    }
+  ],
+  "resources": [
+    {
+      "name": "universities_verified",
+      "path": "data/universities_verified.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "159 verified active universities across China and Malaysia with official URLs, rankings, recognition authorities, and child record counts."
+    },
+    {
+      "name": "programs_verified",
+      "path": "data/programs_verified.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "898 structured degree and language programs with explicit tuition, duration, language, and official source links."
+    },
+    {
+      "name": "scholarships_verified",
+      "path": "data/scholarships_verified.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "276 verified scholarship tracks categorized by awarding body and eligibility."
+    },
+    {
+      "name": "itemized_fees_verified",
+      "path": "data/itemized_fees_verified.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "888 non-tuition and institutional fee rows (dorms, insurance, residence permit, EMGS, application fees)."
+    },
+    {
+      "name": "destinations_matrix_12_countries",
+      "path": "data/destinations_matrix_12_countries.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "12-destination Bangladesh study abroad comparison matrix covering tuition, living costs, Student File rules, and official regulatory links."
+    },
+    {
+      "name": "china_study_report_2027",
+      "path": "data/china_study_report_2027.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Live snapshot of EduExpress China study cost benchmark JSON API."
+    },
+    {
+      "name": "bangladesh_study_abroad_market_2027",
+      "path": "data/bangladesh_study_abroad_market_2027.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Live snapshot of EduExpress Bangladesh 2027 outbound study abroad market JSON API."
+    }
+  ]
+}
