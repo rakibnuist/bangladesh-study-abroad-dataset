@@ -1,6 +1,6 @@
 # Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24423801.svg)](https://doi.org/10.5281/zenodo.24423801)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24545329.svg)](https://doi.org/10.5281/zenodo.24545329)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Public_Dataset-20beff.svg)](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Verified Universities](https://img.shields.io/badge/Verified_Universities-362-0f766e.svg)](https://eduexpressint.com/universities)
@@ -16,7 +16,7 @@ An open, zero-signup, machine-readable dataset of **362 verified active universi
 > - **China Study Data & Cost Benchmark Report:** [https://eduexpressint.com/china-study-report-bangladesh](https://eduexpressint.com/china-study-report-bangladesh) ([Live JSON](https://eduexpressint.com/china-study-report.json))
 > - **Bangladesh Study Abroad Market 2027 Report (EN / বাংলা):** [https://eduexpressint.com/bangladesh-study-abroad-market](https://eduexpressint.com/bangladesh-study-abroad-market) · [বাংলা সংস্করণ](https://eduexpressint.com/bn/bangladesh-study-abroad-market) ([Live JSON](https://eduexpressint.com/bangladesh-study-abroad-market.json))
 > - **Verification & Evidence Standard:** [https://eduexpressint.com/how-we-verify-universities](https://eduexpressint.com/how-we-verify-universities)
-> - **Permanent Academic Archive (Zenodo DOI):** [10.5281/zenodo.24423801](https://doi.org/10.5281/zenodo.24423801) ([Record](https://zenodo.org/records/24423801))
+> - **Permanent Academic Archive (Zenodo Version DOI):** [10.5281/zenodo.24545329](https://doi.org/10.5281/zenodo.24545329) ([Record](https://zenodo.org/records/24545329)) · **Concept DOI (all versions):** [10.5281/zenodo.24423800](https://doi.org/10.5281/zenodo.24423800)
 > - **Kaggle Interactive Dataset:** [Bangladesh Study Abroad China Cost Benchmark 2027](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
 
 ---
