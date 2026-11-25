@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)"
+title: "Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)"
 message: "If you use this dataset in journalism, policy research, or data analysis, please cite it using the metadata below."
 type: dataset
 authors:
@@ -10,23 +10,24 @@ authors:
     city: "Dhaka"
     country: "BD"
     website: "https://eduexpressint.com"
-version: "2026.11.21"
+version: "2026.11.26"
 doi: "10.5281/zenodo.24423801"
-date-released: "2026-11-21"
+date-released: "2026-11-26"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/rakibnuist/bangladesh-study-abroad-dataset"
 url: "https://eduexpressint.com/press"
 abstract: >-
-  Open, CC BY 4.0 dataset of 159 verified active universities
-  (150 in China across 61 cities and 9 in Malaysia),
-  898 degree and language programs, 888 itemized non-tuition fee rows,
-  276 scholarship tracks, and a 12-destination Bangladesh study abroad market
-  comparison matrix covering Bangladesh Bank AD Student File remittance rules, CSC/CSCA criteria,
-  EMGS Malaysia costs, and explicit single-year CNY tuition quartiles.
+  Open, CC BY 4.0 dataset of 362 verified active universities
+  (353 in China across 93 cities and 9 in Malaysia),
+  1796 degree and language programs, 1497 itemized non-tuition fee rows,
+  682 structured university scholarship tracks, a 32-country
+  global Bangladesh outbound cost/visa matrix, and 54 Bangladesh-eligible
+  flagship national scholarships covering Bangladesh Bank AD Student File rules, statutory visa
+  financial proofs, and explicit single-year CNY tuition quartiles.
 keywords:
   - bangladesh-higher-education
   - study-in-china
-  - study-in-malaysia
+  - study-abroad-scholarships
   - international-tuition-benchmark
   - csc-scholarship
   - higher-education-costs
@@ -37,5 +38,5 @@ references:
     title: "Bangladesh to China Study Data & Cost Benchmark Report (Live JSON API)"
     url: "https://eduexpressint.com/china-study-report.json"
   - type: data
-    title: "Bangladesh Study Abroad Market Benchmark & Destination Matrix 2027 (Live JSON API)"
+    title: "Bangladesh Study Abroad Market Benchmark & 32-Country Matrix 2027 (Live JSON API)"
     url: "https://eduexpressint.com/bangladesh-study-abroad-market.json"

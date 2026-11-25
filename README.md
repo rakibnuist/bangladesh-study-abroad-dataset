@@ -1,17 +1,18 @@
-# Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)
+# Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24423801.svg)](https://doi.org/10.5281/zenodo.24423801)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Public_Dataset-20beff.svg)](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Verified Universities](https://img.shields.io/badge/Verified_Universities-159-0f766e.svg)](https://eduexpressint.com/universities)
-[![Programs](https://img.shields.io/badge/Verified_Programs-898-1d4ed8.svg)](https://eduexpressint.com/china-study-report-bangladesh)
-[![Scholarships](https://img.shields.io/badge/Scholarships-276-b45309.svg)](https://eduexpressint.com/csc-scholarship-bangladesh)
-[![Live JSON API](https://img.shields.io/badge/Live_API-JSON-111827.svg)](https://eduexpressint.com/press)
+[![Verified Universities](https://img.shields.io/badge/Verified_Universities-362-0f766e.svg)](https://eduexpressint.com/universities)
+[![CSC China Coverage](https://img.shields.io/badge/China_CSC_Universities-306%2F306-15803d.svg)](https://eduexpressint.com/csc-scholarship-bangladesh)
+[![Programs](https://img.shields.io/badge/Verified_Programs-1796-1d4ed8.svg)](https://eduexpressint.com/china-study-report-bangladesh)
+[![Global Destinations](https://img.shields.io/badge/Global_Destinations-32-0369a1.svg)](https://eduexpressint.com/bangladesh-study-abroad-market)
+[![Scholarships](https://img.shields.io/badge/Scholarships-736-b45309.svg)](https://eduexpressint.com/scholarships)
 
-An open, zero-signup, machine-readable dataset of **159 verified active universities** (150 in China across 61 cities and 9 in Malaysia), **898 structured degree and language programs**, **888 itemized non-tuition fee rows**, **276 scholarship tracks**, and a **12-country Bangladesh study abroad market comparison matrix** — published under **CC BY 4.0** by **[EduExpress International](https://eduexpressint.com)** (Dhanmondi, Dhaka, Bangladesh).
+An open, zero-signup, machine-readable dataset of **362 verified active universities** (**353 in China** across 93 cities — including **306/306 CSC-designated Chinese universities**, 334 offering English-taught tracks, and 274 offering Non-Degree Chinese Language programs — plus **9 in Malaysia**), **1796 structured degree and language programs**, **1497 itemized non-tuition fee rows**, **682 structured university scholarship tracks**, a **32-country global Bangladesh outbound cost & visa matrix**, and **54 Bangladesh-eligible flagship national scholarships** — published under **CC BY 4.0** by **[EduExpress International](https://eduexpressint.com)** (Dhanmondi, Dhaka, Bangladesh).
 
-> **Live Interactive Reports & Press Room:**
-> - **Media, Data & Research Press Room:** [https://eduexpressint.com/press](https://eduexpressint.com/press)
+> **Canonical Sources & Permanent Mirrors**
+> - **Interactive Cost & Scholarship Calculator:** [https://eduexpressint.com/compare-costs](https://eduexpressint.com/compare-costs) ([Embeddable Widget](https://eduexpressint.com/embed/cost-calculator))
 > - **China Study Data & Cost Benchmark Report:** [https://eduexpressint.com/china-study-report-bangladesh](https://eduexpressint.com/china-study-report-bangladesh) ([Live JSON](https://eduexpressint.com/china-study-report.json))
 > - **Bangladesh Study Abroad Market 2027 Report (EN / বাংলা):** [https://eduexpressint.com/bangladesh-study-abroad-market](https://eduexpressint.com/bangladesh-study-abroad-market) · [বাংলা সংস্করণ](https://eduexpressint.com/bn/bangladesh-study-abroad-market) ([Live JSON](https://eduexpressint.com/bangladesh-study-abroad-market.json))
 > - **Verification & Evidence Standard:** [https://eduexpressint.com/how-we-verify-universities](https://eduexpressint.com/how-we-verify-universities)
@@ -20,45 +21,69 @@ An open, zero-signup, machine-readable dataset of **159 verified active universi
 
 ---
 
-## 1. Key Findings & Live Benchmark Snapshot (2026-11-21)
+## 1. Key Benchmark Snapshot (2026-11-26 · v2026.11.26)
 
-- **Catalog Coverage:** **159 active verified universities** (`0` unverified, `100%` mapped to official institutional websites): **150 in China** (61 cities) and **9 in Malaysia**.
-- **Explicit Single-Year China Tuition Quartiles** (computed strictly from explicit single-year CNY program records; non-tuition charges excluded and zero synthetic exchange rates applied):
+- **Catalog Coverage:** **362 verified active universities** (353 in China across 93 cities including **306/306 CSC-designated universities**; 9 in Malaysia).
+- **China Language & English Access:** **334** Chinese universities with English-taught programs and **274** with Non-Degree Chinese Language tracks.
+- **Global Country Coverage:** **32 destinations** (12 EduExpress Active + 20 Global Benchmark Reference destinations where Bangladeshi students go) with 2026/27 statutory visa financial proof thresholds and **54** flagship scholarships.
+- **2-Tier Hybrid Source Governance:** High-level regulatory authorities and root institutional domains are cited openly, while deep brochure/policy tracking URLs are monitored privately to prevent dead links and detect updates automatically.
+
+### Explicit Single-Year China Tuition Quartiles (CNY)
 
 | Program Category | Explicit Rows | Min | Q1 (25th) | Median (50th) | Q3 (75th) | Max |
 |---|---:|---:|---:|---:|---:|---:|
-| **All Explicit China Programs** | 645 | CNY 4,900 | CNY 15,000 | **CNY 20,000** | CNY 25,000 | CNY 75,000 |
-| **English-Taught Bachelor** | 377 | CNY 4,900 | CNY 16,000 | **CNY 18,000** | CNY 24,000 | CNY 75,000 |
-| **Chinese-Taught Bachelor** | 96 | CNY 15,000 | CNY 15,000 | **CNY 15,000** | CNY 16,500 | CNY 48,000 |
-| **Master's Programs** | 95 | CNY 18,000 | CNY 20,000 | **CNY 20,000** | CNY 24,000 | CNY 42,000 |
-| **PhD Programs** | 53 | CNY 12,000 | CNY 25,000 | **CNY 25,000** | CNY 30,000 | CNY 48,000 |
+| **All Explicit China Programs** | 1112 | CNY 4,900 | CNY 16,000 | **CNY 20,000** | CNY 26,000 | CNY 350,000 |
+| **English-Taught Bachelor** | 471 | CNY 4,900 | CNY 16,000 | **CNY 19,000** | CNY 24,000 | CNY 350,000 |
+| **Chinese-Taught Bachelor** | 152 | CNY 12,000 | CNY 15,000 | **CNY 15,000** | CNY 20,000 | CNY 52,000 |
+| **Master's Programs** | 213 | CNY 8,000 | CNY 20,000 | **CNY 24,000** | CNY 28,000 | CNY 60,000 |
+| **PhD Programs** | 145 | CNY 10,000 | CNY 25,000 | **CNY 30,000** | CNY 35,000 | CNY 130,000 |
 
-- **Separated Non-Tuition Arrival & Living Fee Benchmarks (China):**
+### Separated Non-Tuition Arrival & Living Fee Benchmarks (China)
 
 | Fee Category | Sample Rows | Min | Median | Max |
 |---|---:|---:|---:|---:|
-| University application fee (one-off / recorded CNY) | 31 | CNY 0 | **CNY 500** | CNY 1,000 |
+| University application fee (one-off / recorded CNY) | 134 | CNY 0 | **CNY 500** | CNY 1,000 |
 | On-campus dormitory (annual CNY) | 77 | CNY 1,000 | **CNY 5,000** | CNY 19,200 |
-| Comprehensive medical insurance (annual CNY) | 132 | CNY 200 | **CNY 800** | CNY 1,000 |
+| Comprehensive medical insurance (annual CNY) | 335 | CNY 200 | **CNY 800** | CNY 1,000 |
 | Health check / verification (recorded CNY) | 24 | CNY 340 | **CNY 400** | CNY 550 |
-| Residence permit issuance (recorded CNY) | 130 | CNY 400 | **CNY 400** | CNY 800 |
+| Residence permit issuance (recorded CNY) | 333 | CNY 400 | **CNY 400** | CNY 800 |
 
-- **12-Destination Bangladesh Study Abroad Matrix (2027):**
+### 32-Country Global Outbound Benchmark Matrix (2026/27)
 
-| Destination | Tier | Indicative Tuition | Indicative Living / Month | Bangladesh Bank Student File Rule |
+| Country | Region | Scope | Indicative Tuition | Statutory Visa Financial Proof |
 |---|---|---|---|---|
-| [China](https://eduexpressint.com/study-in-china-from-bangladesh) | Flagship | $2,500 - $6,000 / year (CSC scholarship may cover full tuition, subject to eligibility) | $200 - $400 / month | Usually Not Needed (On-campus / CSC stipend) |
-| [South Korea](https://eduexpressint.com/study-in-south-korea-from-bangladesh) | Wave 1 Active | $3,000 - $6,000 / semester (scholarships may offset part or all, subject to eligibility) | $500 - $800 / month | AD Bank Student File for self-funded tuition |
-| [United Kingdom](https://eduexpressint.com/study-in-uk-from-bangladesh) | Wave 1 Active | £12,000 - £18,000 / year (Partially offset by scholarships) | £1,000 - £1,300 / month | AD Bank Student File + 28-day bank solvency |
-| [Hungary](https://eduexpressint.com/study-in-hungary-from-bangladesh) | Wave 1 Active | €3,000 - €6,000 / year (Fully Funded by Stipendium) | €400 - €600 / month | Not needed for Stipendium Hungaricum; AD file for self-funded |
-| [Finland](https://eduexpressint.com/study-in-finland-from-bangladesh) | Wave 1 Active | €6,000 - €12,000 / year (Institutional scholarships reduce tuition by 20-100% depending on university rules) | €800 / month (€9,600/year official Migri living-funds benchmark) | AD Bank Student File + EUR 9,600/yr liquid proof |
-| [Cyprus](https://eduexpressint.com/study-in-cyprus-from-bangladesh) | Wave 2 Active | €2,500 - €4,500 / year (partial waivers available for eligible students) | €300 - €400 / month | AD Bank Student File / verified bank proof |
-| [Croatia](https://eduexpressint.com/study-in-croatia-from-bangladesh) | Wave 3 Active | €3,000 - €5,500 / year (varies by university and degree program) | €500 - €700 / month | AD Bank Student File for tuition wire |
-| [Georgia](https://eduexpressint.com/study-in-georgia-from-bangladesh) | Wave 2 Active | $4,500 - $6,500 / year (MBBS) | $300 - $500 / month | AD Bank Student File / verified wire |
-| [Malaysia](https://eduexpressint.com/study-in-malaysia-from-bangladesh) | Wave 1 Active | RM 12,000 - RM 45,000 / year (approx. BDT 3.2L - 12.0L; UK/AU branch campuses RM 42,000 - 58,000) | RM 1,200 - RM 2,000 / month (approx. BDT 32,000 - 54,000/month with hostel & food) | AD Bank Student File for tuition wire |
-| [Malta](https://eduexpressint.com/study-in-malta-from-bangladesh) | Wave 2 Active | Confirmed for the selected institution and intake | Prepared in a written fee schedule | AD Bank Student File for direct tuition |
-| [Greece](https://eduexpressint.com/study-in-greece-from-bangladesh) | Wave 3 Active | Confirmed for the selected institution and intake | Prepared in a written fee schedule | AD Bank Student File for tuition wire |
-| [Thailand](https://eduexpressint.com/study-in-thailand-from-bangladesh) | Wave 3 Active | Confirmed for the selected institution and intake | Prepared in a written fee schedule | AD Bank Student File / verified tuition transfer |
+| China | Asia | Flagship | CNY 14,000 – 45,000 / year (public Bachelor/Master/MBBS; explicit CNY per university) | USD 2,500+ bank balance benchmark at CVASC Dhaka (for self-funded X1/X2; waived for full CSC awardees) |
+| Malaysia | Asia | Active | MYR 15,000 – 45,000 / year (public & private; UK/AU branch campuses MYR 45,000 – 75,000) | EMGS Student Pass + eVAL + medical + insurance fees paid upfront (no blocked living account required) |
+| United Kingdom | Europe | Active | GBP 13,000 – 26,000 / year (1-year taught Master or 3-year Honours; Russell Group higher) | UKVI 28-day bank solvency: unpaid 1st-year CAS tuition + GBP 1,529–1,570/mo (London) or GBP 1,171–1,203/mo (outside London) up to 9 months + IHS |
+| Hungary | Europe | Active | EUR 3,000 – 8,000 / year (Medicine/Dentistry EUR 14,000 – 17,000 / year) | Self-funded D-visa requires tuition receipt + living solvency/housing proof; waived via Letter of Award for Stipendium Hungaricum |
+| South Korea | Asia | Active | USD 4,000 – 10,000 / year (public vs private STEM/Business) | D-2 student visa typically requires USD 16,000 – 20,000 bank solvency equivalent (region/university tier; waived for full GKS) |
+| Finland | Europe | Active | EUR 8,000 – 15,000 / year (UAS & Research Universities; PhD tuition-exempt) | Migri mandatory liquid proof in student account: EUR 800/month (EUR 9,600 / year) strictly separate from 1st-year tuition |
+| Malta | Europe | Active | EUR 6,000 – 12,000 / year | Identità Malta living proof (~75% of national minimum wage / month) + paid tuition + health insurance + housing proof |
+| Cyprus | Europe | Active | EUR 5,000 – 10,000 / year (Republic of Cyprus EU-accredited degrees; Medicine higher) | Republic of Cyprus Migration Dept bank balance proof (~EUR 7,000+ equivalent) + advance tuition receipt + medicals |
+| Georgia | Europe | Active | USD 3,500 – 8,000 / year (MD/MBBS typically USD 4,500 – 8,000 / year) | D3 Study Visa requires university Ministerial Enrollment Order + paid 1st-semester/year tuition + bank statement |
+| Greece | Europe | Active | EUR 1,500 – 10,000 / year (public English Master/Bachelor; English Medicine ~EUR 12,000 – 13,000) | National Type D visa requires minimum EUR 400–650/month bank solvency proof (verify Athens/New Delhi consulate schedule) + tuition proof |
+| Croatia | Europe | Active | EUR 2,500 – 6,000 / year (English Medicine EUR 10,000 – 12,000 / year) | MUP Croatia temporary stay for study requires proof of monthly subsistence funds + health insurance + accommodation |
+| Thailand | Asia | Active | THB 90,000 – 250,000 / year (public international vs private programs) | Non-Immigrant ED Visa at Royal Thai Embassy Dhaka requires university approval letter + bank statement solvency |
+| United States | North America | Benchmark Reference | USD 20,000 – 45,000 / year (public state universities; private universities USD 45,000 – 65,000+) | Form I-20 liquid proof covering full 1st-year COA (tuition + living, typically USD 35,000 – 65,000+) + SEVIS I-901 fee (USD 350) + DS-160 |
+| Canada | North America | Benchmark Reference | CAD 18,000 – 38,000 / year (undergraduate/master; top research universities CAD 40,000+) | IRCC single-applicant living proof outside Quebec: CAD 23,448 / year effective 1 Sep 2026 (up from CAD 22,895), STRICTLY separate from 1st-year tuition & travel |
+| Australia | Oceania | Benchmark Reference | AUD 28,000 – 48,000 / year (Bachelor & Master coursework; Go8 & Medicine higher) | Home Affairs Subclass 500 financial capacity: AUD 29,710 / year living cost + 12 months tuition + return travel + OSHC health cover |
+| Germany | Europe | Benchmark Reference | EUR 0 tuition at most public universities (EUR 250 – 750 / year semester fee); Baden-Württemberg EUR 3,000/yr; TUM non-EU fees EUR 4,000 – 12,000/yr | Mandatory German Blocked Account (Sperrkonto): EUR 11,904 / year (EUR 992 / month withdrawal cap) |
+| Japan | Asia | Benchmark Reference | JPY 535,800 – 642,960 / year (national public universities + JPY 282,000 admission fee); private JPY 900,000 – 1,500,000+ | Certificate of Eligibility (COE) financial sponsor proof (typically JPY 1.5M – 2.0M+ liquid bank balance equivalent; waived for MEXT) |
+| Italy | Europe | Benchmark Reference | EUR 1,000 – 4,000 / year at public universities (income-adjusted via ISEE Parificato; private EUR 10,000 – 20,000+) | Italian Embassy 2026/27 study visa financial means: EUR 10,179.85 / academic year (provable via personal/family savings or accepted DSU award letter) |
+| France | Europe | Benchmark Reference | EUR 2,770 / year (public Bachelor) · EUR 3,770 – 3,950 / year (public Master) + ~EUR 105 CVEC; Grandes Écoles EUR 10,000 – 25,000+ | Decree No. 2026-526 (effective 1 Aug 2026): minimum EUR 877.50 / month (EUR 10,530 / 12 months) strictly separate from unpaid tuition |
+| Netherlands | Europe | Benchmark Reference | EUR 9,000 – 16,000 / year (UAS/Research Bachelor) · EUR 15,000 – 24,000 / year (Research Master) | IND 2026 statutory study norm: EUR 1,130.77 / month (EUR 13,569.24 / 12 months) usually wired to host university alongside 1st-year tuition |
+| Sweden | Europe | Benchmark Reference | SEK 100,000 – 165,000 / year (Engineering/CS/Business; Architecture/Medicine higher; PhD salaried & tuition-free) | Migrationsverket 2026 maintenance requirement: SEK 10,656 / month (SEK 127,872 / 12 months) + paid 1st-semester tuition receipt |
+| Denmark | Europe | Benchmark Reference | EUR 8,000 – 16,000 / year (~DKK 60,000 – 120,000 / year) | SIRI self-support proof (~DKK 6,694 – 7,426 / month; ~DKK 80,328 / year) + paid 1st-semester tuition receipt |
+| Norway | Europe | Benchmark Reference | NOK 90,000 – 200,000+ / year (non-EU tuition introduced since 2023; PhD positions remain salaried employees) | UDI subsistence requirement: NOK 170,368 / year (NOK 15,488/mo × 11 months) deposited into host university account + separate tuition payment |
+| Ireland | Europe | Benchmark Reference | EUR 12,000 – 25,000 / year (1-year Master & 3–4 year Bachelor) | ISD Type D study visa: immediate access to EUR 10,000 living proof + paid 1st-year tuition (min EUR 6,000 upfront) + funding plan for later years |
+| New Zealand | Oceania | Benchmark Reference | NZD 28,000 – 45,000 / year (Bachelor & Master; PhD students pay domestic rate ~NZD 7,000 – 9,000 / year) | Immigration NZ: NZD 20,000 / year living funds (NZD 1,667/mo) + paid tuition + ~NZD 2,000 onward travel (FTS ANZ/BNZ widely used) |
+| Poland | Europe | Benchmark Reference | EUR 2,000 – 6,000 / year (public English Bachelor/Master; Medicine EUR 11,000 – 15,000; PhD tuition-free with statutory stipend) | National Type D visa requires minimum PLN 776–1,010+/month net subsistence + housing cost + return ticket (~PLN 2,500) + paid tuition receipt |
+| Turkey | Middle East | Benchmark Reference | USD 500 – 2,500 / year (public universities) · USD 3,000 – 12,000 / year (private foundation universities; Medicine higher) | Turkish Embassy Dhaka student visa requires official university acceptance letter + financial guarantee / bank statement (waived for Türkiye Bursları) |
+| Russia | Europe | Benchmark Reference | USD 2,500 – 6,000 / year (Engineering/CS & English MBBS USD 3,500 – 6,500 / year) | Official Ministry/University Visa Invitation (Telex/MVD) + HIV clearance + Embassy Dhaka student visa fee |
+| Singapore | Asia | Benchmark Reference | SGD 17,000 – 30,000+ / year (subsidized public with MOE Grant; unsubsidized public SGD 32,000 – 50,000+; private SGD 15,000 – 28,000) | ICA Student Pass (SOLAR) IPA + medical clearance; private institutes may require SGD 30,000 bank statement proof |
+| United Arab Emirates | Middle East | Benchmark Reference | AED 30,000 – 75,000 / year (UG & international branch campuses; Medicine/Engineering up to AED 100,000 – 140,000+) | University-sponsored student residence visa + medical + Emirates ID (~AED 5,500 – 8,500 upfront) + tuition deposit |
+| Saudi Arabia | Middle East | Benchmark Reference | SAR 0 on External Scholarships · SAR 20,000 – 60,000 / year (self-funded private/international tracks) | Ministry of Education Scholarship Visa Number (for external scholars) or self-funded institutional solvency proof |
+| India | Asia | Benchmark Reference | USD 1,500 – 5,000 / year (public/central & private universities; Medicine/MBBS USD 8,000 – 15,000+) | Indian High Commission Dhaka Student Visa (S-Visa) requires institutional admission letter + bank solvency / ICCR award letter |
 
 ---
 
@@ -66,81 +91,24 @@ An open, zero-signup, machine-readable dataset of **159 verified active universi
 
 | File | Rows | Description |
 |---|---:|---|
-| [`data/universities_verified.csv`](./data/universities_verified.csv) | 159 | Verified active universities (China & Malaysia) with official URLs, EduExpress profile & ClearCost URLs, rankings, recognition authorities, verification dates, and record counts. |
-| [`data/programs_verified.csv`](./data/programs_verified.csv) | 898 | Structured degree and language programs with level, subject, language, duration, intakes, tuition, eligibility, and official source URLs. |
-| [`data/scholarships_verified.csv`](./data/scholarships_verified.csv) | 276 | Scholarship tracks (CSC, Provincial/City Government, University Merit, Belt & Road, CLEC) with coverage, conditions, and eligible programs. |
-| [`data/itemized_fees_verified.csv`](./data/itemized_fees_verified.csv) | 888 | Non-tuition fees (dormitory, medical insurance, residence permit, health check, EMGS Student Pass, application fees) with recipient and refundability notes. |
-| [`data/destinations_matrix_12_countries.csv`](./data/destinations_matrix_12_countries.csv) | 12 | 12-destination outbound Bangladesh matrix with tuition, living cost ranges, AD Bank Student File rules, and official ministry/embassy source links. |
+| [`data/universities_verified.csv`](./data/universities_verified.csv) | 362 | Verified active universities (China & Malaysia) with CSC/English/Chinese-language flags, root official domain, rankings, recognition authority, and record counts. |
+| [`data/programs_verified.csv`](./data/programs_verified.csv) | 1796 | Structured degree and language programs with level, subject, language, duration, intakes, and explicit tuition. |
+| [`data/scholarships_verified.csv`](./data/scholarships_verified.csv) | 682 | Structured university scholarship tracks with parsed tuition waiver type/value, accommodation/insurance waivers, and separate living stipends. |
+| [`data/itemized_fees_verified.csv`](./data/itemized_fees_verified.csv) | 1497 | Non-tuition fees (dormitory, medical insurance, residence permit, health check, EMGS Student Pass, application fees). |
+| [`data/destinations_matrix_32_countries.csv`](./data/destinations_matrix_32_countries.csv) | 32 | Full 32-country outbound Bangladesh matrix with separated tuition, monthly living, 2026/27 statutory visa solvency rules, BD Bank Student File rules, work rights, and scholarships. |
+| [`data/country_scholarships_verified.csv`](./data/country_scholarships_verified.csv) | 54 | Normalized table of Bangladesh-eligible flagship government, regional, and institutional scholarships across all 32 destinations. |
+| [`data/destinations_matrix_12_countries.csv`](./data/destinations_matrix_12_countries.csv) | 12 | Backward-compatible 12-destination active EduExpress service portfolio matrix. |
 | [`data/china_study_report_2027.json`](./data/china_study_report_2027.json) | JSON | Snapshot of [`https://eduexpressint.com/china-study-report.json`](https://eduexpressint.com/china-study-report.json). |
 | [`data/bangladesh_study_abroad_market_2027.json`](./data/bangladesh_study_abroad_market_2027.json) | JSON | Snapshot of [`https://eduexpressint.com/bangladesh-study-abroad-market.json`](https://eduexpressint.com/bangladesh-study-abroad-market.json). |
 
 ---
 
-## 3. Quick Start (Python & JavaScript)
+## 3. Methodology & Verification Guardrails
 
-### Python (`pandas`)
-```python
-import pandas as pd
-
-universities = pd.read_csv("data/universities_verified.csv")
-programs = pd.read_csv("data/programs_verified.csv")
-
-print(universities.groupby("country")["slug"].count())
-print(programs[programs["country"] == "China"]["level"].value_counts())
-```
-
-### Live JSON API (Always Current)
-```javascript
-const chinaReport = await fetch("https://eduexpressint.com/china-study-report.json").then(r => r.json());
-const marketReport = await fetch("https://eduexpressint.com/bangladesh-study-abroad-market.json").then(r => r.json());
-
-console.log(chinaReport.report.tuitionDistributions.bachelorEnglish);
-console.log(marketReport.snapshot.liveCatalog);
-```
-
----
-
-## 4. Methodology & Verification Guardrails
-
-1. **Zero Blended Tuition + Living Averages:** Institutional tuition is kept strictly separate from dormitory, health insurance, residence permit, EMGS, medical, and visa costs.
-2. **Official Primary Sources Only:** Every university record is mapped to its official institutional domain alongside national recognition registries (China MoE / CampusChina / CSC, Malaysian Qualifications Register MQR/MQA, BMDC/WDOMS for MBBS pathways, CVASC Dhaka, and Bangladesh Bank AD Student File guidelines).
-3. **No Synthetic Exchange Rates or Guarantees:** Fee rows retain their published institutional currencies (`CNY`, `MYR`) without synthetic conversions, and zero admission, scholarship, or visa guarantees are included.
-4. **Zero Personal Data:** Contains strictly public institutional catalog and policy benchmark records—no student PII, passports, or private lead data.
+1. **Zero Blended Tuition + Living Averages:** Institutional tuition is strictly separated from dormitory, health insurance, residence permit, EMGS, medical, and visa costs.
+2. **Separate Scholarship Accounting:** Gross published tuition is always preserved; only explicitly covered tuition/dorm/insurance items are waived, and monthly stipends are reported separately without being deducted from upfront arrival cash fees.
+3. **2-Tier Hybrid Source Privacy:** High-level national authorities and root university domains are published openly, while deep brochure/fee tracking URLs remain private inside EduExpress's automated change-monitoring vault.
+4. **Zero Synthetic Exchange Rates or Guarantees:** Fee rows retain published local currencies without synthetic BDT rates, and zero admission, scholarship, or visa guarantees are included.
+5. **Zero Personal Data:** Contains strictly public institutional catalog and policy benchmark records — zero PII or private student files.
 
 Full methodology: [https://eduexpressint.com/how-we-verify-universities](https://eduexpressint.com/how-we-verify-universities)
-
----
-
-## 5. How to Cite (CC BY 4.0)
-
-### APA 7th Edition
-> EduExpress International. (2026). *Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)* [Data set]. EduExpress International Editorial & Verification Desk, Dhaka, Bangladesh. https://eduexpressint.com/press
-
-### BibTeX
-```bibtex
-@dataset{eduexpress_bangladesh_study_abroad_2027,
-  author       = {Al Rakib, Abdullah and {EduExpress International Editorial \& Verification Desk}},
-  title        = {{Bangladesh Study Abroad \& China University Cost Benchmark Dataset (2027)}},
-  month        = nov,
-  year         = 2026,
-  publisher    = {EduExpress International},
-  version      = {2026.11.21},
-  url          = {https://eduexpressint.com/press}
-}
-```
-
-### HTML Attribution Snippet (for News Portals & Blogs)
-```html
-Source: <a href="https://eduexpressint.com/china-study-report-bangladesh">EduExpress International Bangladesh–China Study Cost Benchmark (2027)</a> (<a href="https://eduexpressint.com/press">Open Dataset, CC BY 4.0</a>).
-```
-
----
-
-## 6. Publisher & Canonical Entity Record
-
-- **Organization:** [EduExpress International](https://eduexpressint.com) (Founded March 8, 2018; Dhaka, Bangladesh)
-- **Office Address:** Evergreen Latif, House: 12/1, Road: 4/A, Ground Floor, Dhanmondi, Dhaka 1209, Bangladesh
-- **Office Hours:** Saturday to Thursday, 11:00 AM to 6:00 PM (Friday closed)
-- **Phone / WhatsApp:** +880 1983-333566 / +880 1329-663505
-- **Editorial & Media Inquiries:** info@eduexpressint.com · [Press Room](https://eduexpressint.com/press) · [Dhaka Office Profile](https://eduexpressint.com/education-consultant-dhaka)
-- **Entity Disambiguation:** EduExpress International (Dhaka, Bangladesh; `eduexpressint.com`) is an independent Bangladesh education consultancy and is unaffiliated with UK-registered `EduExpress Ltd.`.

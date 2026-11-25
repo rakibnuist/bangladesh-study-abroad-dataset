@@ -1,10 +1,10 @@
 {
-  "title": "Bangladesh Study Abroad & China University Cost Benchmark Dataset (2027)",
+  "title": "Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
-  "version": "2026.11.21",
-  "publication_date": "2026-11-21",
+  "version": "2026.11.26",
+  "publication_date": "2026-11-26",
   "language": "eng",
   "creators": [
     {
@@ -16,14 +16,14 @@
       "affiliation": "EduExpress International (Dhaka, Bangladesh)"
     }
   ],
-  "description": "<p>An open, evidence-verified higher-education cost and admissions dataset compiled for Bangladeshi students, parents, journalists, and education researchers by <strong>EduExpress International</strong> (<a href=\"https://eduexpressint.com\">https://eduexpressint.com</a>, Dhanmondi, Dhaka).</p><ul><li><strong>159 verified active institutions</strong> (150 Chinese universities across 61 cities + 9 Malaysian universities; 0 under verification).</li><li><strong>898 structured programs</strong> (521 English-taught China Bachelor programs, 118 Master's, 66 PhD).</li><li><strong>888 itemized non-tuition fee records</strong> separating university tuition from dormitory, medical insurance, residence permit, health check, and EMGS processing costs.</li><li><strong>276 scholarship tracks</strong> across CSC, Chinese provincial/city governments, Belt and Road, CLEC, and institutional awards.</li><li><strong>12-destination Bangladesh outbound comparison matrix</strong> documenting Bangladesh Bank AD Student File remittance rules vs. China on-campus/CSC payment pathways.</li></ul><p>Live machine-readable endpoints and press briefs are maintained at <a href=\"https://eduexpressint.com/press\">https://eduexpressint.com/press</a>. EduExpress International (Dhaka, Bangladesh) is an independent entity unaffiliated with UK-registered EduExpress Ltd.</p>",
+  "description": "<p>An open, evidence-verified higher-education cost, scholarship, and visa benchmark dataset compiled for Bangladeshi students, parents, journalists, and education researchers by <strong>EduExpress International</strong> (<a href=\"https://eduexpressint.com\">https://eduexpressint.com</a>, Dhanmondi, Dhaka).</p><ul><li><strong>362 verified active institutions</strong> (353 Chinese universities across 93 cities + 9 Malaysian universities).</li><li><strong>1796 structured degree &amp; language programs</strong> with explicit currency tuition.</li><li><strong>1497 itemized non-tuition fee records</strong> separating tuition from dormitory, medical insurance, residence permit, health check, and EMGS costs.</li><li><strong>682 structured university scholarship tracks</strong> with parsed tuition waiver type, dorm/insurance waivers, and separate living stipends.</li><li><strong>32-country global Bangladesh outbound matrix</strong> (12 EduExpress active destinations + 20 top OECD/regional benchmark destinations) documenting 2026/27 statutory visa solvency rules, Bangladesh Bank AD Student File rules, and <strong>54 Bangladesh-eligible flagship scholarships</strong>.</li></ul><p>Follows EduExpress's 2-Tier Hybrid Source Governance: high-level regulatory authorities and root institutional domains are cited openly, while deep brochure/policy tracking URLs are monitored privately to prevent link rot and detect updates.</p>",
   "keywords": [
     "Bangladesh higher education",
     "Study in China from Bangladesh",
+    "Study abroad scholarships Bangladesh",
     "China university tuition benchmark",
     "CSC Scholarship",
-    "Study in Malaysia from Bangladesh",
-    "International student costs",
+    "International student visa financial proof",
     "Open education data",
     "EduExpress International"
   ],
@@ -59,5 +59,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Tuition quartiles include strictly explicit single-year CNY program rows; non-tuition arrival fees are separated from tuition and never converted using synthetic exchange rates. Licensed under CC BY 4.0."
+  "notes": "Tuition quartiles include strictly explicit single-year CNY program rows; non-tuition arrival fees and monthly scholarship stipends are separated from tuition and never converted using synthetic exchange rates. Licensed under CC BY 4.0."
 }

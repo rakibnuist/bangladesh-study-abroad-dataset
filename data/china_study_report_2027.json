@@ -11,7 +11,7 @@
     "phonePrimary": "+8801983333566",
     "email": "info@eduexpressint.com"
   },
-  "generatedAt": "2026-11-21T16:37:46.511Z",
+  "generatedAt": "2026-11-26T00:00:00.000Z",
   "intakeVerifiedOn": "15 November 2026",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "methodology": {
@@ -19,138 +19,139 @@
     "servicePackageCurrency": "BDT",
     "explicitSingleYearCnyOnly": true,
     "noSyntheticFxConversion": true,
+    "sourceGovernance": "2-tier-hybrid (Tier-1 public authorities & root domains; Tier-2 private change-monitoring vault)",
     "license": "https://creativecommons.org/licenses/by/4.0/",
     "chinaVisaFirstPolicy": "No file opening charge. No EduExpress service fee before China visa approval. Earlier third-party fees must be itemized in writing."
   },
   "report": {
-    "universityCount": 150,
-    "cityCount": 61,
+    "universityCount": 353,
+    "cityCount": 93,
     "topCities": [
       {
-        "city": "Nanjing",
-        "slug": "nanjing",
-        "count": 13,
+        "city": "Beijing",
+        "slug": "beijing",
+        "count": 45,
         "hasCityPage": true
       },
       {
         "city": "Shanghai",
         "slug": "shanghai",
-        "count": 10,
+        "count": 26,
         "hasCityPage": true
       },
       {
-        "city": "Guangzhou",
-        "slug": "guangzhou",
-        "count": 9,
+        "city": "Nanjing",
+        "slug": "nanjing",
+        "count": 19,
         "hasCityPage": true
       },
       {
         "city": "Wuhan",
         "slug": "wuhan",
-        "count": 9,
-        "hasCityPage": true
-      },
-      {
-        "city": "Beijing",
-        "slug": "beijing",
-        "count": 8,
-        "hasCityPage": true
-      },
-      {
-        "city": "Kunming",
-        "slug": "kunming",
-        "count": 6,
+        "count": 15,
         "hasCityPage": true
       },
       {
         "city": "Tianjin",
         "slug": "tianjin",
-        "count": 6,
+        "count": 13,
         "hasCityPage": true
       },
       {
-        "city": "Chengdu",
-        "slug": "chengdu",
-        "count": 5,
+        "city": "Guangzhou",
+        "slug": "guangzhou",
+        "count": 11,
         "hasCityPage": true
       },
       {
         "city": "Hangzhou",
         "slug": "hangzhou",
-        "count": 5,
+        "count": 11,
         "hasCityPage": true
       },
       {
-        "city": "Changchun",
-        "slug": "changchun",
-        "count": 4,
+        "city": "Shenyang",
+        "slug": "shenyang",
+        "count": 11,
+        "hasCityPage": true
+      },
+      {
+        "city": "Chengdu",
+        "slug": "chengdu",
+        "count": 9,
+        "hasCityPage": true
+      },
+      {
+        "city": "Harbin",
+        "slug": "harbin",
+        "count": 9,
         "hasCityPage": true
       }
     ],
     "verification": {
-      "verified": 150,
+      "verified": 353,
       "underVerification": 0,
       "expired": 0,
-      "withOfficialSource": 150
+      "withOfficialSource": 353
     },
-    "englishMediumUniversityCount": 143,
-    "mbbsListedUniversityCount": 47,
+    "englishMediumUniversityCount": 334,
+    "mbbsListedUniversityCount": 45,
     "programCounts": {
-      "total": 853,
-      "bachelorEnglish": 521,
-      "bachelorChinese": 96,
-      "master": 118,
-      "phd": 66,
+      "total": 1751,
+      "bachelorEnglish": 665,
+      "bachelorChinese": 192,
+      "master": 343,
+      "phd": 248,
       "mbbs": 2,
-      "languageAndFoundation": 44
+      "languageAndFoundation": 295
     },
     "tuitionDistributions": {
       "allExplicit": {
-        "count": 645,
-        "min": 4900,
-        "q1": 15000,
-        "median": 20000,
-        "q3": 25000,
-        "max": 75000
-      },
-      "bachelorEnglish": {
-        "count": 377,
+        "count": 1112,
         "min": 4900,
         "q1": 16000,
-        "median": 18000,
+        "median": 20000,
+        "q3": 26000,
+        "max": 350000
+      },
+      "bachelorEnglish": {
+        "count": 471,
+        "min": 4900,
+        "q1": 16000,
+        "median": 19000,
         "q3": 24000,
-        "max": 75000
+        "max": 350000
       },
       "bachelorChinese": {
-        "count": 96,
-        "min": 15000,
+        "count": 152,
+        "min": 12000,
         "q1": 15000,
         "median": 15000,
-        "q3": 16500,
-        "max": 48000
+        "q3": 20000,
+        "max": 52000
       },
       "master": {
-        "count": 95,
-        "min": 18000,
+        "count": 213,
+        "min": 8000,
         "q1": 20000,
-        "median": 20000,
-        "q3": 24000,
-        "max": 42000
+        "median": 24000,
+        "q3": 28000,
+        "max": 60000
       },
       "phd": {
-        "count": 53,
-        "min": 12000,
+        "count": 145,
+        "min": 10000,
         "q1": 25000,
-        "median": 25000,
-        "q3": 30000,
-        "max": 48000
+        "median": 30000,
+        "q3": 35000,
+        "max": 130000
       }
     },
     "feeBenchmarks": [
       {
         "category": "application",
         "label": "University application fee (one-off / recorded CNY)",
-        "sampleCount": 31,
+        "sampleCount": 134,
         "min": 0,
         "median": 500,
         "max": 1000
@@ -166,7 +167,7 @@
       {
         "category": "insurance",
         "label": "Comprehensive medical insurance (annual CNY)",
-        "sampleCount": 132,
+        "sampleCount": 335,
         "min": 200,
         "median": 800,
         "max": 1000
@@ -182,33 +183,33 @@
       {
         "category": "residence",
         "label": "Residence permit issuance (recorded CNY)",
-        "sampleCount": 130,
+        "sampleCount": 333,
         "min": 400,
         "median": 400,
         "max": 800
       }
     ],
-    "scholarshipTotal": 267,
+    "scholarshipTotal": 673,
     "scholarshipCategories": [
       {
         "category": "Chinese Government (CSC)",
-        "count": 37
+        "count": 246
       },
       {
         "category": "Provincial or city government",
-        "count": 58
+        "count": 184
       },
       {
         "category": "Belt and Road / ministry",
-        "count": 5
+        "count": 28
       },
       {
         "category": "Chinese language (CLEC)",
-        "count": 3
+        "count": 38
       },
       {
         "category": "University scholarship",
-        "count": 164
+        "count": 177
       }
     ],
     "intakes": [
@@ -240,7 +241,7 @@
       }
     ],
     "storyCount": 7,
-    "latestVerifiedIso": "2026-11-21"
+    "latestVerifiedIso": "2026-11-26"
   },
   "officialSources": [
     {
