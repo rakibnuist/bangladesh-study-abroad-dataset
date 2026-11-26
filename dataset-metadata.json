@@ -1,8 +1,8 @@
 {
-  "title": "Bangladesh Study Abroad, Scholarship & China Cost Benchmark 2027",
+  "title": "Bangladesh Global Study Abroad Cost Dataset 2027",
   "id": "abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027",
-  "subtitle": "362 verified unis (306 CSC China), 1796 programs, 682 uni scholarships, 32 countries",
-  "description": "# Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)\n\nOpen CC BY 4.0 higher-education benchmark published by **EduExpress International** (https://eduexpressint.com/press, Dhanmondi, Dhaka, Bangladesh).\n\n## Highlights\n- **362 verified active universities** (353 in China across 93 cities, 9 in Malaysia)\n- **1796 structured degree & language programs** with explicit tuition and medium of instruction\n- **682 structured university scholarship rows** with parsed waiver types, dorm/insurance waivers, and separate stipends\n- **1497 itemized non-tuition fee rows** kept strictly separate from tuition\n- **32-country global Bangladesh outbound matrix** (12 active EduExpress countries + 20 top OECD/regional benchmark destinations) with 2026/27 statutory visa solvency rules\n- **54 Bangladesh-eligible flagship national & institutional scholarships** across all 32 countries",
+  "subtitle": "32 countries, 362 verified unis, 1,796 programs & 736 scholarships (2026/27)",
+  "description": "# Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)\n\nOpen CC BY 4.0 global higher-education benchmark published by **EduExpress International** (https://eduexpressint.com/press, Dhanmondi, Dhaka, Bangladesh).\n\n## Highlights\n- **32-country global Bangladesh outbound matrix** (12 active EduExpress countries + 20 top OECD/regional benchmark destinations) with 2026/27 statutory visa solvency rules\n- **362 verified active universities** (353 in China across 93 cities incl. 306/306 CSC, 9 in Malaysia — actively expanding across additional countries)\n- **1796 structured degree & language programs** with explicit tuition and medium of instruction\n- **682 structured university scholarship rows** + **54 Bangladesh-eligible flagship national scholarships** across all 32 countries\n- **1497 itemized non-tuition fee rows** kept strictly separate from tuition",
   "isPrivate": false,
   "licenses": [
     {
@@ -13,6 +13,7 @@
     "education",
     "higher education",
     "bangladesh",
+    "global",
     "china",
     "scholarships",
     "universities",
@@ -43,10 +44,6 @@
     {
       "path": "data/country_scholarships_verified.csv",
       "description": "54 Bangladesh-eligible flagship government, regional, and institutional scholarships across 32 global destinations."
-    },
-    {
-      "path": "data/destinations_matrix_12_countries.csv",
-      "description": "12-destination active EduExpress service portfolio matrix (backward-compatible view)."
     },
     {
       "path": "data/china_study_report_2027.json",

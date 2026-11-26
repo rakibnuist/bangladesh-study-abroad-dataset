@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "bangladesh-study-abroad-dataset",
-  "title": "Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)",
+  "title": "Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)",
   "version": "2026.11.26",
   "homepage": "https://eduexpressint.com/press",
   "licenses": [
@@ -79,13 +79,6 @@
       "format": "csv",
       "mediatype": "text/csv",
       "description": "54 Bangladesh-eligible flagship government, regional, and institutional scholarships across 32 global destinations."
-    },
-    {
-      "name": "destinations_matrix_12_countries",
-      "path": "data/destinations_matrix_12_countries.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "description": "12-destination active EduExpress service portfolio matrix (backward-compatible view)."
     },
     {
       "name": "china_study_report_2027",

@@ -1,23 +1,24 @@
-# Bangladesh Study Abroad, Scholarship & China University Cost Benchmark Dataset (2027)
+# Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24545329.svg)](https://doi.org/10.5281/zenodo.24545329)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Public_Dataset-20beff.svg)](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Global Destinations](https://img.shields.io/badge/Global_Destinations-32-0369a1.svg)](https://eduexpressint.com/bangladesh-study-abroad-market)
 [![Verified Universities](https://img.shields.io/badge/Verified_Universities-362-0f766e.svg)](https://eduexpressint.com/universities)
 [![CSC China Coverage](https://img.shields.io/badge/China_CSC_Universities-306%2F306-15803d.svg)](https://eduexpressint.com/csc-scholarship-bangladesh)
 [![Programs](https://img.shields.io/badge/Verified_Programs-1796-1d4ed8.svg)](https://eduexpressint.com/china-study-report-bangladesh)
-[![Global Destinations](https://img.shields.io/badge/Global_Destinations-32-0369a1.svg)](https://eduexpressint.com/bangladesh-study-abroad-market)
 [![Scholarships](https://img.shields.io/badge/Scholarships-736-b45309.svg)](https://eduexpressint.com/scholarships)
 
-An open, zero-signup, machine-readable dataset of **362 verified active universities** (**353 in China** across 93 cities — including **306/306 CSC-designated Chinese universities**, 334 offering English-taught tracks, and 274 offering Non-Degree Chinese Language programs — plus **9 in Malaysia**), **1796 structured degree and language programs**, **1497 itemized non-tuition fee rows**, **682 structured university scholarship tracks**, a **32-country global Bangladesh outbound cost & visa matrix**, and **54 Bangladesh-eligible flagship national scholarships** — published under **CC BY 4.0** by **[EduExpress International](https://eduexpressint.com)** (Dhanmondi, Dhaka, Bangladesh).
+An open, zero-signup, machine-readable global higher-education dataset covering **32 study destinations worldwide** (12 active EduExpress countries + 20 top OECD/regional benchmark destinations), **362 verified active universities** (currently **353 in China** across 93 cities including **306/306 CSC-designated universities**, 334 offering English-taught tracks, and 274 offering Non-Degree Chinese Language programs + **9 in Malaysia**, actively expanding to additional countries in upcoming versions), **1796 structured degree and language programs**, **1497 itemized non-tuition fee rows**, **682 structured university scholarship tracks**, and **54 Bangladesh-eligible flagship national scholarships** (**736 scholarships total**) — published under **CC BY 4.0** by **[EduExpress International](https://eduexpressint.com)** (Dhanmondi, Dhaka, Bangladesh).
 
 > **Canonical Sources & Permanent Mirrors**
-> - **Interactive Cost & Scholarship Calculator:** [https://eduexpressint.com/compare-costs](https://eduexpressint.com/compare-costs) ([Embeddable Widget](https://eduexpressint.com/embed/cost-calculator))
-> - **China Study Data & Cost Benchmark Report:** [https://eduexpressint.com/china-study-report-bangladesh](https://eduexpressint.com/china-study-report-bangladesh) ([Live JSON](https://eduexpressint.com/china-study-report.json))
+> - **Interactive 32-Country Cost & Scholarship Calculator:** [https://eduexpressint.com/compare-costs](https://eduexpressint.com/compare-costs) ([Embeddable Widget](https://eduexpressint.com/embed/cost-calculator))
 > - **Bangladesh Study Abroad Market 2027 Report (EN / বাংলা):** [https://eduexpressint.com/bangladesh-study-abroad-market](https://eduexpressint.com/bangladesh-study-abroad-market) · [বাংলা সংস্করণ](https://eduexpressint.com/bn/bangladesh-study-abroad-market) ([Live JSON](https://eduexpressint.com/bangladesh-study-abroad-market.json))
+> - **China Study Data & Cost Benchmark Report:** [https://eduexpressint.com/china-study-report-bangladesh](https://eduexpressint.com/china-study-report-bangladesh) ([Live JSON](https://eduexpressint.com/china-study-report.json))
 > - **Verification & Evidence Standard:** [https://eduexpressint.com/how-we-verify-universities](https://eduexpressint.com/how-we-verify-universities)
 > - **Permanent Academic Archive (Zenodo Version DOI):** [10.5281/zenodo.24545329](https://doi.org/10.5281/zenodo.24545329) ([Record](https://zenodo.org/records/24545329)) · **Concept DOI (all versions):** [10.5281/zenodo.24423800](https://doi.org/10.5281/zenodo.24423800)
-> - **Kaggle Interactive Dataset:** [Bangladesh Study Abroad China Cost Benchmark 2027](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
+> - **Kaggle Public Dataset:** [Bangladesh Global Study Abroad Cost Dataset 2027](https://www.kaggle.com/datasets/abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027)
+> - **Starter Python EDA Notebook:** [`notebooks/bangladesh-study-abroad-2027-eda.ipynb`](./notebooks/bangladesh-study-abroad-2027-eda.ipynb)
 
 ---
 
@@ -91,15 +92,15 @@ An open, zero-signup, machine-readable dataset of **362 verified active universi
 
 | File | Rows | Description |
 |---|---:|---|
-| [`data/universities_verified.csv`](./data/universities_verified.csv) | 362 | Verified active universities (China & Malaysia) with CSC/English/Chinese-language flags, root official domain, rankings, recognition authority, and record counts. |
+| [`data/destinations_matrix_32_countries.csv`](./data/destinations_matrix_32_countries.csv) | 32 | Full 32-country outbound Bangladesh matrix (12 active EduExpress + 20 global benchmark destinations) with separated tuition, monthly living, 2026/27 statutory visa solvency rules, BD Bank Student File rules, work rights, and scholarships. |
+| [`data/country_scholarships_verified.csv`](./data/country_scholarships_verified.csv) | 54 | Normalized table of Bangladesh-eligible flagship government, regional, and institutional scholarships across all 32 destinations. |
+| [`data/universities_verified.csv`](./data/universities_verified.csv) | 362 | Verified active universities (currently China & Malaysia, expanding across destinations) with CSC/English/Chinese-language flags, root official domain, rankings, recognition authority, and record counts. |
 | [`data/programs_verified.csv`](./data/programs_verified.csv) | 1796 | Structured degree and language programs with level, subject, language, duration, intakes, and explicit tuition. |
 | [`data/scholarships_verified.csv`](./data/scholarships_verified.csv) | 682 | Structured university scholarship tracks with parsed tuition waiver type/value, accommodation/insurance waivers, and separate living stipends. |
 | [`data/itemized_fees_verified.csv`](./data/itemized_fees_verified.csv) | 1497 | Non-tuition fees (dormitory, medical insurance, residence permit, health check, EMGS Student Pass, application fees). |
-| [`data/destinations_matrix_32_countries.csv`](./data/destinations_matrix_32_countries.csv) | 32 | Full 32-country outbound Bangladesh matrix with separated tuition, monthly living, 2026/27 statutory visa solvency rules, BD Bank Student File rules, work rights, and scholarships. |
-| [`data/country_scholarships_verified.csv`](./data/country_scholarships_verified.csv) | 54 | Normalized table of Bangladesh-eligible flagship government, regional, and institutional scholarships across all 32 destinations. |
-| [`data/destinations_matrix_12_countries.csv`](./data/destinations_matrix_12_countries.csv) | 12 | Backward-compatible 12-destination active EduExpress service portfolio matrix. |
-| [`data/china_study_report_2027.json`](./data/china_study_report_2027.json) | JSON | Snapshot of [`https://eduexpressint.com/china-study-report.json`](https://eduexpressint.com/china-study-report.json). |
 | [`data/bangladesh_study_abroad_market_2027.json`](./data/bangladesh_study_abroad_market_2027.json) | JSON | Snapshot of [`https://eduexpressint.com/bangladesh-study-abroad-market.json`](https://eduexpressint.com/bangladesh-study-abroad-market.json). |
+| [`data/china_study_report_2027.json`](./data/china_study_report_2027.json) | JSON | Snapshot of [`https://eduexpressint.com/china-study-report.json`](https://eduexpressint.com/china-study-report.json). |
+| [`notebooks/bangladesh-study-abroad-2027-eda.ipynb`](./notebooks/bangladesh-study-abroad-2027-eda.ipynb) | Notebook | Starter Python EDA notebook exploring all 6 CSV tables (tuition quartiles, 306/306 CSC coverage, scholarships, and 32-country visa proofs). |
 
 ---
 
