@@ -33,11 +33,11 @@ An open, zero-signup, machine-readable global higher-education dataset covering 
 
 | Program Category | Explicit Rows | Min | Q1 (25th) | Median (50th) | Q3 (75th) | Max |
 |---|---:|---:|---:|---:|---:|---:|
-| **All Explicit China Programs** | 1112 | CNY 4,900 | CNY 16,000 | **CNY 20,000** | CNY 26,000 | CNY 350,000 |
-| **English-Taught Bachelor** | 471 | CNY 4,900 | CNY 16,000 | **CNY 19,000** | CNY 24,000 | CNY 350,000 |
-| **Chinese-Taught Bachelor** | 152 | CNY 12,000 | CNY 15,000 | **CNY 15,000** | CNY 20,000 | CNY 52,000 |
-| **Master's Programs** | 213 | CNY 8,000 | CNY 20,000 | **CNY 24,000** | CNY 28,000 | CNY 60,000 |
-| **PhD Programs** | 145 | CNY 10,000 | CNY 25,000 | **CNY 30,000** | CNY 35,000 | CNY 130,000 |
+| **All Explicit China Programs** | 1305 | CNY 4,900 | CNY 16,000 | **CNY 20,000** | CNY 26,000 | CNY 350,000 |
+| **English-Taught Bachelor** | 493 | CNY 4,900 | CNY 16,000 | **CNY 19,000** | CNY 24,000 | CNY 350,000 |
+| **Chinese-Taught Bachelor** | 161 | CNY 12,000 | CNY 15,000 | **CNY 15,000** | CNY 20,000 | CNY 52,000 |
+| **Master's Programs** | 275 | CNY 8,000 | CNY 20,000 | **CNY 24,000** | CNY 28,000 | CNY 60,000 |
+| **PhD Programs** | 200 | CNY 10,000 | CNY 25,000 | **CNY 30,000** | CNY 35,000 | CNY 130,000 |
 
 ### Separated Non-Tuition Arrival & Living Fee Benchmarks (China)
 

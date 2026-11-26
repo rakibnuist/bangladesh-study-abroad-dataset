@@ -107,7 +107,7 @@
     },
     "tuitionDistributions": {
       "allExplicit": {
-        "count": 1112,
+        "count": 1305,
         "min": 4900,
         "q1": 16000,
         "median": 20000,
@@ -115,7 +115,7 @@
         "max": 350000
       },
       "bachelorEnglish": {
-        "count": 471,
+        "count": 493,
         "min": 4900,
         "q1": 16000,
         "median": 19000,
@@ -123,7 +123,7 @@
         "max": 350000
       },
       "bachelorChinese": {
-        "count": 152,
+        "count": 161,
         "min": 12000,
         "q1": 15000,
         "median": 15000,
@@ -131,7 +131,7 @@
         "max": 52000
       },
       "master": {
-        "count": 213,
+        "count": 275,
         "min": 8000,
         "q1": 20000,
         "median": 24000,
@@ -139,7 +139,7 @@
         "max": 60000
       },
       "phd": {
-        "count": 145,
+        "count": 200,
         "min": 10000,
         "q1": 25000,
         "median": 30000,
