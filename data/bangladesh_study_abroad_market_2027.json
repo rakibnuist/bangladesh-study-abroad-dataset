@@ -28,7 +28,7 @@
     "activeDestinationCount": 12,
     "globalBenchmarkDestinationCount": 32,
     "liveCatalog": {
-      "activeUniversities": 362,
+      "activeUniversities": 416,
       "byCountry": [
         {
           "country": "China",
@@ -36,13 +36,53 @@
         },
         {
           "country": "Malaysia",
-          "count": 9
+          "count": 15
+        },
+        {
+          "country": "United Kingdom",
+          "count": 8
+        },
+        {
+          "country": "Finland",
+          "count": 6
+        },
+        {
+          "country": "Hungary",
+          "count": 6
+        },
+        {
+          "country": "South Korea",
+          "count": 6
+        },
+        {
+          "country": "Cyprus",
+          "count": 4
+        },
+        {
+          "country": "Georgia",
+          "count": 4
+        },
+        {
+          "country": "Greece",
+          "count": 4
+        },
+        {
+          "country": "Thailand",
+          "count": 4
+        },
+        {
+          "country": "Croatia",
+          "count": 3
+        },
+        {
+          "country": "Malta",
+          "count": 3
         }
       ],
-      "programsCount": 1796,
-      "itemizedFeeRowsCount": 1497,
-      "scholarshipsCount": 682,
-      "verifiedUniversitiesCount": 362,
+      "programsCount": 1974,
+      "itemizedFeeRowsCount": 1609,
+      "scholarshipsCount": 737,
+      "verifiedUniversitiesCount": 416,
       "consentedStoriesCount": 7
     },
     "chinaIntakes": [

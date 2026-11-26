@@ -1,8 +1,8 @@
 {
   "title": "Bangladesh Global Study Abroad Cost Dataset 2027",
   "id": "abdullahalrakibww/bangladesh-study-abroad-china-cost-benchmark-2027",
-  "subtitle": "32 countries, 362 verified unis, 1,796 programs & 736 scholarships (2026/27)",
-  "description": "# Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)\n\nOpen CC BY 4.0 global higher-education benchmark published by **EduExpress International** (https://eduexpressint.com/press, Dhanmondi, Dhaka, Bangladesh).\n\n## Highlights\n- **32-country global Bangladesh outbound matrix** (12 active EduExpress countries + 20 top OECD/regional benchmark destinations) with 2026/27 statutory visa solvency rules\n- **362 verified active universities** (353 in China across 93 cities incl. 306/306 CSC, 9 in Malaysia — actively expanding across additional countries)\n- **1796 structured degree & language programs** with explicit tuition and medium of instruction\n- **682 structured university scholarship rows** + **54 Bangladesh-eligible flagship national scholarships** across all 32 countries\n- **1497 itemized non-tuition fee rows** kept strictly separate from tuition",
+  "subtitle": "32 countries, 416 verified unis, 1,974 programs & 791 scholarships (2026/27)",
+  "description": "# Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)\n\nOpen CC BY 4.0 global higher-education benchmark published by **EduExpress International** (https://eduexpressint.com/press, Dhanmondi, Dhaka, Bangladesh).\n\n## Highlights\n- **32-country global Bangladesh outbound matrix** (12 active EduExpress countries + 20 top OECD/regional benchmark destinations) with 2026/27 statutory visa solvency rules\n- **416 verified active universities across 12 countries** (China (353), Malaysia (15), United Kingdom (8), Finland (6), Hungary (6), South Korea (6), Cyprus (4), Georgia (4), Greece (4), Thailand (4), Croatia (3), Malta (3))\n- **1974 structured degree & language programs** with explicit tuition and medium of instruction\n- **737 structured university scholarship rows** + **54 Bangladesh-eligible flagship national scholarships** across all 32 countries\n- **1609 itemized non-tuition fee rows** kept strictly separate from tuition",
   "isPrivate": false,
   "licenses": [
     {
@@ -23,19 +23,19 @@
   "resources": [
     {
       "path": "data/universities_verified.csv",
-      "description": "362 verified active universities (China & Malaysia) with CSC/English/Chinese-language flags, rankings, root official domains, and record counts."
+      "description": "416 verified active universities across 12 countries (China (353), Malaysia (15), United Kingdom (8), Finland (6), Hungary (6), South Korea (6), Cyprus (4), Georgia (4), Greece (4), Thailand (4), Croatia (3), Malta (3)) with CSC/English/Chinese-language flags, rankings, root official domains, and record counts."
     },
     {
       "path": "data/programs_verified.csv",
-      "description": "1796 structured degree and language programs with explicit tuition, duration, language, and verification dates."
+      "description": "1974 structured degree and language programs with explicit tuition, duration, language, and verification dates."
     },
     {
       "path": "data/scholarships_verified.csv",
-      "description": "682 structured university scholarship tracks with parsed tuition waiver type/value, dorm/insurance waivers, and monthly stipends."
+      "description": "737 structured university scholarship tracks with parsed tuition waiver type/value, dorm/insurance waivers, and monthly stipends."
     },
     {
       "path": "data/itemized_fees_verified.csv",
-      "description": "1497 non-tuition and institutional fee rows (dorms, insurance, residence permit, EMGS, application fees)."
+      "description": "1609 non-tuition and institutional fee rows (dorms, insurance, residence permit, EMGS, application fees)."
     },
     {
       "path": "data/destinations_matrix_32_countries.csv",

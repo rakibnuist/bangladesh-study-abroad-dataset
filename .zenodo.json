@@ -3,7 +3,7 @@
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
-  "version": "2026.11.26",
+  "version": "2026.11.26.2",
   "publication_date": "2026-11-26",
   "language": "eng",
   "creators": [
@@ -16,7 +16,7 @@
       "affiliation": "EduExpress International (Dhaka, Bangladesh)"
     }
   ],
-  "description": "<p>An open, evidence-verified higher-education cost, scholarship, and visa benchmark dataset compiled for Bangladeshi students, parents, journalists, and education researchers by <strong>EduExpress International</strong> (<a href=\"https://eduexpressint.com\">https://eduexpressint.com</a>, Dhanmondi, Dhaka).</p><ul><li><strong>362 verified active institutions</strong> (353 Chinese universities across 93 cities + 9 Malaysian universities).</li><li><strong>1796 structured degree &amp; language programs</strong> with explicit currency tuition.</li><li><strong>1497 itemized non-tuition fee records</strong> separating tuition from dormitory, medical insurance, residence permit, health check, and EMGS costs.</li><li><strong>682 structured university scholarship tracks</strong> with parsed tuition waiver type, dorm/insurance waivers, and separate living stipends.</li><li><strong>32-country global Bangladesh outbound matrix</strong> (12 EduExpress active destinations + 20 top OECD/regional benchmark destinations) documenting 2026/27 statutory visa solvency rules, Bangladesh Bank AD Student File rules, and <strong>54 Bangladesh-eligible flagship scholarships</strong>.</li></ul><p>Follows EduExpress's 2-Tier Hybrid Source Governance: high-level regulatory authorities and root institutional domains are cited openly, while deep brochure/policy tracking URLs are monitored privately to prevent link rot and detect updates.</p>",
+  "description": "<p>An open, evidence-verified higher-education cost, scholarship, and visa benchmark dataset compiled for Bangladeshi students, parents, journalists, and education researchers by <strong>EduExpress International</strong> (<a href=\"https://eduexpressint.com\">https://eduexpressint.com</a>, Dhanmondi, Dhaka).</p><ul><li><strong>416 verified active institutions across 12 countries</strong> (China (353), Malaysia (15), United Kingdom (8), Finland (6), Hungary (6), South Korea (6), Cyprus (4), Georgia (4), Greece (4), Thailand (4), Croatia (3), Malta (3)).</li><li><strong>1974 structured degree &amp; language programs</strong> with explicit currency tuition.</li><li><strong>1609 itemized non-tuition fee records</strong> separating tuition from dormitory, medical insurance, residence permit, health check, and EMGS costs.</li><li><strong>737 structured university scholarship tracks</strong> with parsed tuition waiver type, dorm/insurance waivers, and separate living stipends.</li><li><strong>32-country global Bangladesh outbound matrix</strong> (12 EduExpress active destinations + 20 top OECD/regional benchmark destinations) documenting 2026/27 statutory visa solvency rules, Bangladesh Bank AD Student File rules, and <strong>54 Bangladesh-eligible flagship scholarships</strong>.</li></ul><p>Follows EduExpress's 2-Tier Hybrid Source Governance: high-level regulatory authorities and root institutional domains are cited openly, while deep brochure/policy tracking URLs are monitored privately to prevent link rot and detect updates.</p>",
   "keywords": [
     "Bangladesh higher education",
     "Study in China from Bangladesh",

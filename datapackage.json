@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "name": "bangladesh-study-abroad-dataset",
   "title": "Bangladesh Global Study Abroad Cost & Scholarship Dataset (2027)",
-  "version": "2026.11.26",
+  "version": "2026.11.26.2",
   "homepage": "https://eduexpressint.com/press",
   "licenses": [
     {
@@ -43,28 +43,28 @@
       "path": "data/universities_verified.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "362 verified active universities (China & Malaysia) with CSC/English/Chinese-language flags, rankings, root official domains, and record counts."
+      "description": "416 verified active universities across 12 countries (China (353), Malaysia (15), United Kingdom (8), Finland (6), Hungary (6), South Korea (6), Cyprus (4), Georgia (4), Greece (4), Thailand (4), Croatia (3), Malta (3)) with CSC/English/Chinese-language flags, rankings, root official domains, and record counts."
     },
     {
       "name": "programs_verified",
       "path": "data/programs_verified.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "1796 structured degree and language programs with explicit tuition, duration, language, and verification dates."
+      "description": "1974 structured degree and language programs with explicit tuition, duration, language, and verification dates."
     },
     {
       "name": "scholarships_verified",
       "path": "data/scholarships_verified.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "682 structured university scholarship tracks with parsed tuition waiver type/value, dorm/insurance waivers, and monthly stipends."
+      "description": "737 structured university scholarship tracks with parsed tuition waiver type/value, dorm/insurance waivers, and monthly stipends."
     },
     {
       "name": "itemized_fees_verified",
       "path": "data/itemized_fees_verified.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "1497 non-tuition and institutional fee rows (dorms, insurance, residence permit, EMGS, application fees)."
+      "description": "1609 non-tuition and institutional fee rows (dorms, insurance, residence permit, EMGS, application fees)."
     },
     {
       "name": "destinations_matrix_32_countries",

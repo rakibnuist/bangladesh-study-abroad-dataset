@@ -10,20 +10,20 @@ authors:
     city: "Dhaka"
     country: "BD"
     website: "https://eduexpressint.com"
-version: "2026.11.26"
+version: "2026.11.26.2"
 doi: "10.5281/zenodo.24545329"
 date-released: "2026-11-26"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/rakibnuist/bangladesh-study-abroad-dataset"
 url: "https://eduexpressint.com/press"
 abstract: >-
-  Open, CC BY 4.0 dataset of 362 verified active universities
-  (353 in China across 93 cities and 9 in Malaysia),
-  1796 degree and language programs, 1497 itemized non-tuition fee rows,
-  682 structured university scholarship tracks, a 32-country
+  Open, CC BY 4.0 global higher-education dataset of 416 verified active universities
+  across 12 countries (China (353), Malaysia (15), United Kingdom (8), Finland (6), Hungary (6), South Korea (6), Cyprus (4), Georgia (4), Greece (4), Thailand (4), Croatia (3), Malta (3)),
+  1974 degree and language programs, 1609 itemized non-tuition fee rows,
+  737 structured university scholarship tracks, a 32-country
   global Bangladesh outbound cost/visa matrix, and 54 Bangladesh-eligible
   flagship national scholarships covering Bangladesh Bank AD Student File rules, statutory visa
-  financial proofs, and explicit single-year CNY tuition quartiles.
+  financial proofs, and explicit local-currency tuition benchmarks.
 keywords:
   - bangladesh-higher-education
   - study-in-china
